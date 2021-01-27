@@ -1,0 +1,1009 @@
+date,media,client_id,client_name,campaign_id,campaign_name,clicks,impressions,investment
+29/08/2020,Verizon,9a47871a-c36d-4949-8a65-4d4f2b3801d9,Turcotte-McCullough,SWZERB-901,Angelica,270,843,536.37
+15/06/2020,Twitter,7e909cb8-2153-4ba6-8976-bdc50f3aec06,Satterfield Group,NPLNPM-030,Ox Eye,186,122,638.97
+09/05/2020,Google,5185a3bd-e265-4444-83fc-49085a9fb9e4,McLaughlin Inc,DWJXVL-764,Platygraphopsis Lichen,677,808,910.48
+25/03/2020,Google,9bb6e1ea-17cb-4a83-acaa-7673a80c9fb9,"Runolfsson, Trantow and White",YDGRGN-019,Common Woodrush,706,649,916.25
+23/01/2020,Google,a6e4bb77-e236-4a5d-bbe5-7210938222e7,"Rutherford, Champlin and Stamm",CDJQYD-628,Hybrid Rose,138,106,591.77
+28/05/2020,Twitter,3e0bdba3-360f-4280-bd13-c2257f80639c,Cartwright-Blanda,JKISWW-344,False Helmetorchid,10,707,821.45
+27/04/2020,Criteo,927241fd-4c4e-42ba-bd77-15ecce90f040,Anderson Inc,VVNDXZ-306,Pincushion Flower,435,750,337.01
+15/03/2020,Google,bdf5f992-7954-45a2-a948-238cef6fa337,"Zulauf, Watsica and Powlowski",HNLCQF-749,Narrowleaf Saw-wort,182,923,287.69
+26/03/2020,Verizon,c2481c63-d9cc-4c73-b54f-a65699401c85,"Heidenreich, Runolfsdottir and Bechtelar",TRAGLJ-965,Topal Holly,390,142,505.27
+04/02/2020,Verizon,3f892f0c-a9b3-4bf6-b4d4-7762578528f3,Schowalter-Stanton,XWVMMW-027,Annual Marsh Elder,493,102,906.29
+24/01/2020,Twitter,a0666bf8-f080-43e6-a830-1a49491ea88c,Rosenbaum Inc,ZYUWSL-762,Vetivergrass,707,16,362.01
+18/07/2020,Percycle,525c6f78-3295-46a6-a8cd-e1b6c291d982,Bradtke-Hauck,OPHXQW-013,Nevada Pea,96,639,107.32
+27/03/2020,Percycle,fe4aa62b-847d-44d8-ab63-1a0bd4a279dc,"Olson, Hamill and Adams",DOZGOB-115,Purple Amaranth,312,633,754.93
+05/03/2020,Google,ec21296f-2b29-44a6-bb76-59bcbb73220b,Hilll Inc,JERJHO-172,Mayten,375,36,709.47
+11/08/2020,Facebook,6b4e4fd6-7e2b-4cc8-9ef5-3613718ca6c2,"Brown, Spinka and Hirthe",EKWXIV-959,Sitka Mountain Ash,800,951,713.08
+12/06/2020,Criteo,aecd76f4-fd80-4c80-978b-509b117e1b3b,Kunde-Streich,GLLFHQ-881,Springfield's Beardgrass,951,183,692.59
+26/03/2020,Criteo,4905772c-7521-45a3-ab1d-f7d70df4eac0,"Raynor, Kiehn and O'Conner",XUOODR-386,Fringed Checkerbloom,216,759,968.18
+14/02/2020,Verizon,0e7e2322-0e19-4d71-a9cf-0929ff58d543,Padberg-Kub,JGIUOD-077,Peaty Dewberry,918,92,452.69
+28/01/2020,Google,49b921db-d815-4bab-af46-19e4eefa1428,Kub LLC,DLHONE-066,Purplenet Toadflax,424,914,853.51
+07/07/2020,Google,b1151ac3-d09c-46b8-b3ce-b42ecc2ea836,Lynch Group,PRFPEI-814,Dwarf Stonecrop,291,29,787.29
+12/04/2020,Percycle,159ef0dc-2440-4cbf-9366-ca3e8d6f7640,"Hudson, Schamberger and Homenick",TILSVK-879,Sticky Snakeroot,718,295,562.5
+12/02/2020,Verizon,bdbba96a-9a92-49cf-b974-1fe4ceebd432,Hamill-Tremblay,ZFJBEZ-010,Maguire's Lewisia,602,710,504.4
+22/08/2020,Verizon,36ed7484-0503-4de1-8673-6939fa0a0ce7,"Wolf, Casper and Schulist",EOBPXX-481,Fineleaf Fournerved Daisy,589,817,124.13
+18/05/2020,Verizon,5ecb750a-a2f6-4781-af38-ab18efeb8532,"Mosciski, Block and Carroll",SMQSMK-647,Petunia,567,540,320.74
+05/07/2020,Criteo,e86b4aa1-00fb-4c8f-84c5-20eb57475ae4,Mertz-Lind,SOGVWQ-288,Lecidella Lichen,559,632,562.29
+01/01/2020,Percycle,19eb1bcb-236d-44c7-a305-7ab2d6d959d2,Kohler Group,MILYRN-776,Verbena,351,483,548.83
+21/04/2020,Verizon,5ed0d0df-a20c-4704-bb52-de487310db80,Jacobi-Yundt,XVPSAH-308,Yellow Coralroot,482,379,627.86
+20/04/2020,Percycle,fdbb7b74-cfc9-4b8b-86db-955b3fb17182,Runolfsson-Zboncak,YEUAFN-102,Yucatan Noddingcaps,577,349,759.15
+11/08/2020,Percycle,10b67893-756f-490a-9bf4-9891d39b6967,Raynor and Sons,HKNDYC-100,Hawai'i Jadevine,166,493,453.79
+02/05/2020,Twitter,0c33b4ca-60cd-4e7c-8377-79ede9e202b0,Greenfelder-Auer,OYEATX-108,Manyflower Marshpennywort,188,218,590.6
+05/08/2020,Verizon,66804818-0a17-4b2c-b9a4-65f857349737,Schroeder LLC,VWZGHC-197,Max Chrysanthemum,126,211,781.56
+01/01/2020,Google,2502b880-6019-431c-934c-a1a89a223ebf,"Torp, Kilback and Turcotte",KWBASQ-709,Bryoid Fissidens Moss,626,650,995.93
+17/01/2020,Google,78abd9c8-d38b-4c2b-b453-b0430a8d394c,"Herzog, Barton and Kuhic",COGZUV-628,Inchhigh Lupine,63,985,148.48
+18/01/2020,Verizon,2409714b-1026-4fc4-9e15-f340c149c6bf,"Bins, Abshire and Von",LQAKHH-642,Michaux's Stitchwort,847,719,752.77
+16/05/2020,Verizon,e59f1443-6fea-49d0-86bb-1710e38cd459,Dibbert-Medhurst,JDMILX-842,Guayabacon,946,50,228.11
+02/07/2020,Percycle,fb02a4c7-8383-4222-af77-8a40cf976033,Mills-Pollich,MQVJDP-360,Canary Island Date Palm,329,655,852.8
+14/08/2020,Twitter,55fd267e-9d25-4a2f-ae0b-017d6df5ccc7,"Smith, Bashirian and Nienow",DZRLLB-518,Blushing Wild Buckwheat,411,539,871.52
+14/06/2020,Twitter,839ecec0-3515-49e9-9de5-036cb9a8955b,Pfannerstill and Sons,HJWLMS-773,White Upright Mignonette,916,759,482.84
+29/03/2020,Facebook,50427c7d-beca-4c63-a0a9-21def25ac5e9,Stark Inc,EYLPOF-485,Lithographa Lichen,210,75,573.64
+31/07/2020,Google,0a7f9997-fb3b-49f7-a62a-d29e75da322b,"Boyle, Aufderhar and Koss",PERLQP-555,Alpine Oatgrass,562,656,836.93
+14/02/2020,Percycle,5abe0cca-6441-4075-a360-860d26702b26,Denesik Group,LDDNNC-067,Veiny Skullcap,482,835,188.68
+27/08/2020,Verizon,b693adb5-762c-45fd-9af2-c29f91c7b9cb,Johns Group,EGZJHQ-434,Scarlet Globemallow,819,213,512.65
+12/07/2020,Twitter,37e999a4-fcac-4770-a92a-f63437e3a84c,"Hamill, Leannon and Kris",IQJAGB-150,Acroceras,75,144,669.7
+10/08/2020,Google,c1d5cad3-5543-4e37-9455-ad43653752ff,Smitham Inc,KCIRYK-482,Lake Quillwort,448,561,518.29
+28/02/2020,Google,ab1f763c-a633-49ef-8f49-49e4022ecd5e,Sipes Group,NYPDYJ-082,Florestina,355,710,943.47
+01/06/2020,Twitter,4344600f-4792-446e-b28a-737cde3c01a7,Harvey-Tillman,JKEFMC-437,Reese's Fissidens Moss,445,700,565.88
+10/07/2020,Percycle,cf6b918a-b84b-48df-9333-fd4d9b7f4cee,Hackett Group,TRLPJQ-438,Softleaf Rosette Grass,257,957,845.08
+08/04/2020,Google,45d45212-f3af-4c80-ab94-fda0969d30ba,Bosco Group,EOHEBZ-562,Hibiscus,881,625,96.77
+05/08/2020,Verizon,dd34a264-6ba7-4f0e-96fc-c1a274d9470a,Jaskolski LLC,XMIUCA-574,Nakedstem Sunray,94,307,199.34
+13/06/2020,Twitter,b68fee17-6c3e-48d1-a71f-9873176840ff,Steuber Group,DJRKIQ-059,Fendler's Meadow-rue,488,567,908.5
+03/02/2020,Criteo,dce18ff0-5e39-40fe-9d41-feff022fc3d5,Kub Inc,HHTNQR-523,Texas Wrightwort,456,283,978.18
+23/06/2020,Percycle,e284c168-0fc1-40e2-9784-366c1bd77fac,"Franecki, Renner and Bailey",ZXJTYY-671,Comparettia,368,227,219.88
+11/07/2020,Twitter,750c9fa6-f3eb-4623-97c3-4f23b7490ae7,O'Hara-Trantow,XEJJFE-940,Common Crupina,111,761,607.68
+01/06/2020,Criteo,2efa961d-96aa-4e37-937d-5e2a49dbfd39,King and Sons,HURHLH-309,Polynesian 'ohe,220,199,725.19
+14/05/2020,Verizon,83581f5e-8d12-44e8-bb82-0e70713a7155,"Mayert, Stroman and Maggio",CJGPEZ-194,San Francisco Campion,199,787,247.85
+28/07/2020,Facebook,73219cdb-63c0-4430-baf6-2669fc40ad77,"Johns, Reichert and Crooks",TMVNZJ-716,Wart Lichen,982,917,500.38
+17/02/2020,Google,94ba9c7f-1a4b-49fa-a29f-66b32bcf5f18,Rohan-Wiza,QDXQFO-435,Bejuco Prieto,222,610,548.7
+03/02/2020,Percycle,6e903a19-b446-477b-91cf-a8278059febd,Rodriguez-McClure,MFMQSQ-038,Brewer's Redmaids,768,61,321.7
+11/02/2020,Verizon,7193e3e1-ba87-48bf-b376-14666daf2636,Lindgren Group,GAORGN-198,Chinese Holly,401,594,334.21
+22/02/2020,Criteo,6c8463bc-bf9e-48a7-87f4-ed7c16ffad31,"Jerde, Hoppe and Boyer",TMRFTJ-002,Zygodon Moss,290,918,739.21
+04/02/2020,Percycle,752883b9-1f88-4a11-8489-39fd209c754a,"Leannon, Kerluke and Towne",PHNUNJ-252,Poison Hemlock,112,618,633.79
+05/03/2020,Criteo,6a129ba6-0f13-4a95-9cc1-68358b04b2d1,Hoeger Group,ZPMKVN-994,Alkali Milkvetch,140,44,843.85
+16/07/2020,Percycle,07cf47f1-528f-4597-87b2-eec078352c1d,"Rowe, Bernhard and Botsford",PLDUYO-795,Narrowleaf Arnica,553,972,382.83
+08/02/2020,Verizon,f8bfaeef-a4ea-47ac-8b5e-124b628d0070,"Anderson, Rutherford and Pfeffer",ZUEKEI-057,Peirson's Serpentweed,885,42,235.58
+20/04/2020,Facebook,1dd173aa-0113-4945-9976-6900e65438f5,"Feeney, Douglas and Homenick",AKIUMP-883,Labrador Buttercup,457,162,988.3
+20/05/2020,Twitter,750188d1-b123-4f68-9824-82468298175f,Bernhard-Herzog,VZNJXT-664,Monarch Fern,861,193,343.27
+04/06/2020,Facebook,0fe0d955-91ba-4452-8cd4-d2aa70603710,Bednar-Weimann,PXBKQJ-579,Beet,401,796,263.37
+10/08/2020,Google,6ff83460-3d7a-466c-b838-2e744996ccc3,"Rohan, Walsh and Marvin",SVQTZR-723,Hippomane,943,934,174.68
+30/04/2020,Criteo,b51132b4-f125-4c5b-8c00-ed8ca5f07bba,Kuvalis-O'Keefe,KYCZBT-351,Sand Sedge,600,669,500.24
+15/06/2020,Criteo,7b8a8dc1-f49c-4d0a-b279-2a167018971e,Hickle-Mayert,GEYQMQ-006,Pink Mock Vervain,219,194,366.22
+10/02/2020,Percycle,382e01e4-63e7-419c-a1a2-da8a380ee99a,O'Hara Inc,CTOIVK-643,Dotted Lichen,344,475,735.75
+01/06/2020,Twitter,50096081-4faa-4214-bf53-b6834c517d1f,Heathcote-Herzog,FNBHBL-466,Xylographa Lichen,85,21,929.09
+29/06/2020,Google,2b0c42eb-a73b-46a2-80be-e227ea65b609,"Marvin, Braun and Corkery",DGERQZ-515,Macdougal Verbena,163,544,157.79
+24/07/2020,Percycle,a48239a3-4748-4d91-82df-f8c31e279c9f,"Mohr, Rutherford and Nader",AFDDKO-450,Islandthicket Threeawn,315,503,99.92
+29/04/2020,Percycle,fcccd038-1ec6-425e-aac0-83b51178e383,Hilpert Group,TWLDTC-125,Spotted Lupine,64,698,38.13
+05/06/2020,Criteo,b330c042-beda-4078-8899-91d90d17ab73,"Ratke, Mertz and Waters",UOZDIT-573,Persian Ironwood,501,337,400.2
+08/02/2020,Percycle,39164a4c-b387-4def-8e49-d544cb92c9f9,"Jenkins, McLaughlin and Ullrich",AEYVAD-105,Italian Gladiolus,478,33,216.7
+29/05/2020,Twitter,2b1500c5-b7c7-41fb-973b-4fe1cd7523ed,Will-Lebsack,KYFXGE-265,Tuna,764,875,478.73
+09/04/2020,Twitter,e0555bec-6be5-4d09-8a9e-fc0b0d4344f9,"Veum, Ward and Rath",RQCURP-218,Allegheny Monkeyflower,766,20,606.84
+02/04/2020,Percycle,da69e044-7875-4a50-909b-fee885ee219f,"Klein, Goldner and Flatley",DGSPSV-323,Stemless Mock Goldenweed,68,855,874.09
+22/08/2020,Google,4598b4fa-5a17-40b9-86d0-636434f70f90,White-Keeling,ARGRSW-142,Algerian Ivy,295,644,650.21
+05/03/2020,Twitter,b5775d8a-81e4-4b81-8a7d-e8f6f22f3825,"Watsica, Carter and Funk",KBAEDE-955,Willowleaf Aster,360,95,571.77
+10/02/2020,Facebook,6c197f8c-66b1-4526-8258-067e9d34318b,Reichert-Kulas,GRFNCO-992,Caucasian Hackberry,734,893,802.4
+08/08/2020,Google,0fbf493a-7f97-4704-b2f5-a2885ac8d35b,Carter Group,MGGXVX-662,Parish's Broomrape,949,553,300.53
+02/02/2020,Criteo,2dbdec6d-e0a6-4a30-9af6-8641b0228214,Breitenberg LLC,TTWJAQ-154,Distinct Map Lichen,906,156,649.15
+31/03/2020,Google,a1c200aa-82b8-4f2a-a0ef-059de1e0b4c1,Stokes Group,OMWCSL-163,Neckeropsis Moss,135,753,401.06
+22/02/2020,Google,43fe0f38-440c-48e9-b1a9-dd5a6d6a608f,Franecki Group,CTOYUS-271,Openground Draba,685,484,258.21
+14/02/2020,Facebook,3d5ab28e-9aae-49b0-aa19-c253b2ea71b9,Kuhlman-Swaniawski,HPMIAX-077,Koko,358,797,610.49
+04/04/2020,Facebook,147b4b84-317a-4948-bb1b-65a7d8fd5d95,Kiehn-Rohan,QPZAKQ-590,Catechu Tree,457,107,370.02
+07/06/2020,Facebook,65a13e98-d774-4973-b60b-4002c74a3189,Wolf-Turcotte,FXMKOX-184,Nevada Lewisia,85,389,10.57
+08/06/2020,Google,0d09290f-a9c6-4a70-a597-e6d3806836f8,Treutel-Klein,PIFSDR-812,Golden Mock Orange,262,32,713.17
+26/02/2020,Twitter,aff344fc-b906-416a-b05c-f965f75de2a4,Hagenes LLC,LWPSQG-300,Carrion-flower,715,287,631.94
+23/05/2020,Twitter,e291ffde-b88f-4f55-9e05-8a89d1b20a02,Runolfsdottir LLC,BQKXED-251,Chromatochlamys Lichen,258,856,833.3
+08/02/2020,Criteo,a86db3a2-df01-4138-9229-2ad9d1906936,O'Kon LLC,HPPNWD-410,Orange Wall Lichen,927,874,709.65
+29/06/2020,Criteo,b3ab8aa5-e82d-4c7d-8ce8-3383075858bf,"Wisoky, Ryan and Wunsch",FNWQZB-287,Fontinalis Moss,415,213,21.5
+11/04/2020,Facebook,d69b4802-625f-403e-b263-b5f2fb46c6bc,"Schmidt, Kuhlman and Goldner",EKQMAU-604,Dicranella Moss,152,963,52.98
+04/02/2020,Verizon,4b859ae6-71d2-48f6-8510-f42f6010f236,"Schowalter, Conn and Eichmann",YCOWQO-243,Tarweed,986,805,410.45
+26/01/2020,Criteo,70a953c3-af4a-4e4f-875c-b2bb6fa8032d,Cormier-Kunze,TIROJM-233,Orange Lichen,585,602,345.41
+13/07/2020,Criteo,cdb9f157-09f6-443e-a76c-323c4d5b56f0,"Sawayn, Mitchell and Rowe",FSLCFI-047,Koi,831,911,117.4
+01/07/2020,Google,839124e9-cac5-490f-bed5-e244af86b734,Schneider LLC,KJRIII-480,Tapertip Spleenwort,619,689,604.8
+07/08/2020,Twitter,467b71d1-7c4d-425a-96ca-bd21f9ef331b,Hackett Group,OJOBWX-164,Nealley's Sprangletop,461,527,154.63
+29/01/2020,Twitter,95c73ffd-1fb3-4e77-926c-38d902736806,"Eichmann, Olson and Christiansen",YMSVEW-196,California Scleropodium Moss,39,225,317.34
+28/07/2020,Criteo,8bde14c4-d076-475b-94ff-877186f40d0a,Fritsch-Powlowski,RUMDEC-425,Elliott's Yelloweyed Grass,681,876,609.23
+30/05/2020,Facebook,85c71198-5107-4a60-a1e1-25e93ed32855,Hamill Group,QYKCOH-033,Lewis' Evening Primrose,490,863,640.56
+09/03/2020,Facebook,a58e6c7e-2d94-4c48-a6b0-6b01417bd6e2,"McCullough, Fay and Schowalter",EKBCFR-368,Jelly Lichen,346,30,781.81
+14/03/2020,Percycle,65005124-bb60-41ad-be99-6c444b781280,"Skiles, Watsica and Cruickshank",QEJSAZ-292,Swamp Blackberry,812,430,245.13
+04/06/2020,Facebook,175d1a91-8c59-4869-a429-2105f95711e8,Stroman and Sons,XLSMCS-639,Island Cetraria Lichen,263,345,260.53
+13/06/2020,Verizon,79950778-3c3a-40e5-a4b3-561a2b3db971,Schneider-Hermiston,JNYXLX-229,Maluco,695,993,245.64
+07/06/2020,Verizon,4457917f-526b-4cf0-a613-8c6518845694,"O'Conner, Abbott and Hintz",EBWROH-385,Fremont's Chaffbush,31,167,513.5
+01/01/2020,Twitter,3cb7775f-ed01-432e-afee-febe9d29e246,Wiza Inc,KZPQRP-326,Schott's Stickpea,342,550,436.98
+02/04/2020,Google,5e025adf-ccdc-43f8-92e8-2ecf86c30cc8,Christiansen and Sons,JBUJCV-896,Wheeler's Disc Lichen,125,830,993.66
+28/02/2020,Verizon,252313fd-70ae-4859-9bc1-331d036a856a,"Marks, Rath and Lowe",XJJECI-148,Mertens' Rush,602,243,393.74
+13/04/2020,Criteo,c656a277-390c-4fc4-87f2-4c4aaa534aad,Schowalter-Hane,UYQXIM-846,Estrella De Mar,432,523,825.23
+08/03/2020,Percycle,779e6f2e-3a44-42ac-b3df-54f90f2f88f0,"Hermann, Fisher and Schaden",OWWZXH-505,Ragleaf Bahia,667,935,32.9
+13/02/2020,Twitter,febfcb68-c8b8-4fdc-becd-82e356503844,Durgan-Homenick,XZVWRJ-421,Garland-flower,62,889,107.41
+20/05/2020,Percycle,24799730-d73c-40ec-b3f1-268e864db41c,Reinger-Kertzmann,MLWBFW-820,Long-hair Silverscale,492,58,898.96
+13/07/2020,Google,60279ab9-a61b-43c1-9c68-1c340da57c55,Zulauf and Sons,LKOMCJ-769,Desmatodon Moss,551,341,110.87
+01/04/2020,Twitter,d8a7a228-4d3a-4c9e-bafc-c17a1c81b86c,Lakin LLC,EAXLHL-258,Prairie Crab Apple,119,853,561.88
+10/08/2020,Percycle,868367ed-3a1b-44f3-ac5e-f4b12d8745df,O'Hara LLC,CQDWHJ-788,Callingcard Vine,136,377,599.03
+10/03/2020,Twitter,df5d23d6-1525-43a3-aacd-1e1ce346c083,Crist-Ziemann,KIFLON-897,Cornflag,634,821,894.09
+21/04/2020,Facebook,4174f9ba-b15f-4c9c-bff5-d6633fe84809,"McKenzie, Durgan and Jacobson",XHJAHX-213,Bigleaf Aster,398,131,497.54
+13/04/2020,Twitter,cdbd8e2e-c150-465d-b0e7-91712d32d68e,Crooks-Hane,GLHGTI-281,Sandhill's Blazing Star,371,352,886.4
+05/05/2020,Percycle,c41f639d-6c09-4854-b0a0-be2f3ec5ef21,"Lynch, Mitchell and Bruen",IUWIYK-991,Eelgrass,822,22,448.66
+22/08/2020,Facebook,0cfe633b-c305-457f-acb6-e64584df99d4,"Hills, Ortiz and Wiegand",MOHVME-656,Redstem Purslane,388,378,608.12
+29/07/2020,Criteo,726c526a-18a7-49f7-8b7a-96c8de7e8501,Kessler LLC,XPFAME-254,Slash Pine,886,628,577.15
+16/01/2020,Facebook,91e09747-4761-4a64-aab9-c3f7fd15b5c5,Lang Inc,DBFMHA-441,Fox Sedge,741,980,460.89
+23/01/2020,Verizon,a8519023-5efc-4726-b6b1-d2a78120a0bc,Mosciski-O'Reilly,IDTGDL-201,Whorled Marshpennywort,247,410,781.15
+19/07/2020,Percycle,3d3b91de-5432-4ab7-bfb0-c4b4f620be53,Koch-Cummerata,GBIKQK-054,Carolina Maronea Lichen,204,553,512.92
+19/08/2020,Percycle,2178d6b1-5c69-44ae-8bc8-63bf11c9cedf,Crooks-Carter,SORHGW-041,Blue Mountain Buttercup,730,242,131.5
+07/05/2020,Google,fca3f03d-4390-4777-ab15-d723d64cfdd7,Bauch-Langosh,JYRSZW-001,Parish's Rabbitbrush,26,301,964.13
+29/01/2020,Google,2cfdfd33-e797-4b18-805c-55cbc1065c6a,Swaniawski-Weimann,UUICAX-601,Senna,200,413,754.02
+24/06/2020,Facebook,59c1111b-ff4f-437c-bcdc-aecfe20a9d4e,"Gleichner, Emmerich and West",ZUYDKE-362,Pinyon Dwarf Mistletoe,653,530,42.6
+01/04/2020,Facebook,d41fc19c-ac37-4c0d-bed6-46e5201ba2f1,Zboncak and Sons,LRTHJJ-235,Doll's Daisy,811,78,918.53
+23/07/2020,Facebook,41c6ea6d-60a8-48e3-a065-80427e1fdae6,Towne Group,KIQDUY-765,Cochise Dodder,877,679,138.78
+06/07/2020,Percycle,4c65d1cd-a601-4dd7-bed1-5c7b7da2b706,"Schuppe, Gaylord and Muller",FDBVRJ-165,Sixweeks Prairie Clover,912,205,167.73
+15/01/2020,Twitter,2d937647-f837-4522-b8a7-b3193601eee6,"Heathcote, Okuneva and Bergnaum",RQGMFD-860,Round Cardamom,688,233,777.2
+08/05/2020,Facebook,f77ef41f-23e7-4117-98bb-20216a2787ef,"Wilkinson, Schultz and Hamill",MZQSRY-804,Confederate Spiderwort,188,512,895.37
+21/04/2020,Percycle,ff0ae757-4a63-4dbd-b24e-922fa95258d0,"Zemlak, Wisoky and Brown",XUIRXZ-016,Maricao Pricklyash,143,483,477.8
+19/03/2020,Criteo,9e1fc5e4-85bc-470f-bdda-db00f52463c6,Hodkiewicz LLC,VTPLUY-221,Larkspur,717,61,590.48
+09/04/2020,Google,e973e147-1ee8-4194-a30d-984be40d0da7,Wiegand-Cormier,IRDHCI-838,Toothed Spurge,430,445,161.43
+21/04/2020,Twitter,c8dee8ad-45f3-46b3-8698-5de73746e2cf,"Marquardt, Skiles and Roob",WKKWJQ-639,Bridle Buckwheat,176,677,749.02
+27/07/2020,Facebook,2296465b-18a5-464e-9218-056b4fe045cf,Weber LLC,FWQGKL-734,Dot Lichen,579,810,680.86
+16/04/2020,Google,8aced2dd-0b19-4ab0-8f62-27127265e6a0,Hudson Group,WOLNIN-478,Elliott's Milkpea,308,592,631.86
+24/04/2020,Percycle,7fc66e7f-1e9d-4811-a283-0639a75fd39b,Shields-Hoeger,UIBAMH-477,Parry's Saltbush,88,145,360.86
+22/07/2020,Percycle,a7364f1e-e875-48aa-851d-3bfb64c698ac,Vandervort and Sons,RCGWEM-414,Guyandotte Beauty,246,647,826.98
+04/06/2020,Percycle,10bae24f-78a5-45ac-a0b0-89125d4d9a4a,Kuphal Group,WZPFEF-497,Slender Goldenweed,337,183,102.35
+30/01/2020,Google,31f7aa84-a238-4677-ad88-fce73446fe70,VonRueden-Mraz,MCZNKF-413,Sakaki,440,92,291.65
+04/01/2020,Percycle,24c7f1c7-7a6d-4397-946f-ca7937cdc53b,"McCullough, Wehner and Stark",TTNUYE-051,Relicina Lichen,794,952,540.63
+02/06/2020,Google,c955a0de-4e07-4339-b473-c82556059e63,"Brown, Boyle and Veum",FYLIQS-928,Sedge,926,46,904.88
+02/06/2020,Criteo,4c0ce60b-14de-4370-9303-4745a0db9842,Upton-Armstrong,FHULLH-981,Dwarf Arctic Ragwort,858,324,450.96
+14/08/2020,Google,d6a82eea-29b8-4bf1-af14-f604ed414a25,"Cummerata, Bauch and Bechtelar",YFKCTZ-745,Cayenne Pepper,552,918,982.36
+14/08/2020,Facebook,d6b78fdb-ecd7-43e7-b7f9-f892523ff246,Glover Inc,NKZTRP-898,Lija,842,178,665.34
+31/07/2020,Twitter,941f9093-e2a7-447e-acdb-b1672aedb3d0,Block LLC,GPUTSA-765,Red Brome,752,11,696.32
+04/01/2020,Percycle,5f88b94a-3e0d-4f60-abbe-cdfa42f7fc6e,"Robel, Bauch and Huels",DDHVYE-053,Dense False Gilyflower,679,426,440.62
+19/06/2020,Google,4cb49c67-0ce3-4eec-adc5-61cf9d11e41b,Effertz and Sons,RFIJDO-162,Hybrid Oak,294,976,807.9
+19/08/2020,Verizon,53401b93-bbd0-4945-ad09-fe71d361b49d,"Cronin, Cronin and Cummings",FLSPBY-171,Alsike Clover,179,578,401.14
+08/06/2020,Twitter,efbcc31e-c460-40bb-8822-20374d1c7062,"Rippin, Rutherford and Kling",EGJGHH-467,Dense Blazing Star,515,592,312.77
+16/04/2020,Facebook,59ce6411-801e-4cc7-8184-b162b86d6852,Gusikowski LLC,EUUCSC-398,Red Fescue,642,316,892.33
+10/06/2020,Percycle,15199462-328f-40c7-ad56-fb7b9665b368,"Weissnat, Herzog and Bailey",LRTSAC-212,Threetip Sagebrush,750,502,168.13
+14/04/2020,Verizon,25eb9888-40da-47f3-a4e7-54e81d2d0759,Waelchi-Fisher,DDFPCY-074,Garrett's Florida Pineland Spurge,263,945,58.51
+06/07/2020,Facebook,6a992914-57ce-4484-9a51-19097622798a,"Zulauf, Romaguera and Jones",OMUBRT-395,Southwestern Pleatleaf,804,621,853.33
+13/05/2020,Twitter,7c8c2f5a-d518-4616-8b69-ff5dd81c5f94,Franecki-Reichel,JOPHDL-875,Devil's Beggartick,432,22,394.72
+29/01/2020,Verizon,92ea92c7-1c79-4897-9aeb-dd5549adff39,"Abbott, Schuppe and Fahey",TSWWFK-639,Woolly Mule-ears,34,872,358.33
+11/07/2020,Percycle,9c757ffd-2d45-4839-9441-6ba478068673,Christiansen-Wisoky,OPWPWJ-965,Boquillas Sandmat,334,323,589.86
+31/03/2020,Twitter,00cebb4a-e59b-4f82-b6a7-e11477c7dfcc,Bernhard Inc,CCHXGO-043,Lyall's Rockcress,459,303,500.75
+29/08/2020,Verizon,9a5c329c-227c-46e6-8b64-1b8fb68860c3,Mills-Langosh,AEOKSS-446,Roland's Seablite,53,38,667.72
+31/05/2020,Criteo,5bd44bdb-38bd-47e1-94f6-17abef0c21e0,Towne LLC,LJTKGD-260,New England Blackbutt,896,750,727.69
+27/01/2020,Facebook,628810f3-e61b-47dc-af10-5324ff5271bb,"Cremin, Gleichner and Smitham",VCTNDS-553,Doum Palm,735,762,486.36
+02/06/2020,Criteo,61def9a7-f420-4787-8a14-e389f045566a,Corwin Group,KBKJVI-483,American Hogpeanut,56,278,783.81
+24/05/2020,Google,61872096-ebef-4d41-ae1e-4f2badeab594,"Stroman, McLaughlin and Jerde",IKAYXP-140,Joshua Tree,145,643,237.11
+12/04/2020,Percycle,bc54cc94-61ac-430e-b23f-39585e96928d,Bradtke-Schneider,HSLIUM-195,Desert Mountain Mock Orange,55,27,569.83
+28/06/2020,Twitter,e85ad0d7-24fe-4d45-b3ee-f03e1d86135e,"Hamill, Satterfield and Breitenberg",VXTHTF-034,Low Silverbush,988,351,439.47
+27/05/2020,Percycle,1fe87647-f094-4433-a61c-567f1a00f3aa,Wuckert Group,CKSLCK-872,Cushion Buckwheat,631,305,617.32
+18/02/2020,Verizon,a9de6faf-3fc0-4b8d-a51f-11e453485783,"Reynolds, Ebert and Bosco",MEHOZX-085,Narrowleaf Hoarypea,633,965,953.25
+20/01/2020,Google,9d4f5b82-67db-457d-9528-4491f56c6ae8,"Monahan, Doyle and Davis",ZSKQHW-957,Pale Nitrogen Moss,998,749,113.81
+13/03/2020,Facebook,b82382d5-9c9e-442b-962f-9f28ecd077d4,Kreiger Group,RFEKTR-843,Topeka Purple Coneflower,159,178,323.97
+25/03/2020,Twitter,c11482d3-257b-4a48-baa8-127cd6995a3b,Littel-Wunsch,DEDYET-450,Blue Waterhyssop,412,661,397.56
+24/02/2020,Facebook,47d7517c-9266-40ab-8645-66a9902bd9f1,"Casper, Hodkiewicz and Kling",YLDKWC-028,San Luis Obispo Serpentine Dudleya,582,739,327.94
+21/04/2020,Facebook,f5b39454-6b1d-4a7f-963b-57a7e6828354,"Wisozk, Murazik and Treutel",ZFZKAQ-277,Engelmann's Hedgehog Cactus,49,378,850.46
+15/01/2020,Percycle,49c3e975-6a0c-4644-9648-e86894c4568e,Eichmann-Schulist,SOWMVM-113,Broadscale Sedge,640,412,565.08
+29/03/2020,Facebook,d5940be0-6453-4f9b-8d3f-f25f6b3dd018,Gutmann Group,YIQEDP-412,Pseudobryum Moss,388,49,916.94
+12/02/2020,Facebook,428832aa-9078-4968-90c2-f333ac15afe8,"King, Lakin and Ferry",TDNDYC-116,Johnny-nip,198,590,853.92
+08/06/2020,Facebook,1fb9ab88-5792-4853-9ff5-1f2d8e166da4,Watsica LLC,UPVRMI-608,Branching Phacelia,776,611,859.55
+16/05/2020,Percycle,176f76a8-93ee-40ce-ac6c-d930af9b175c,Sauer and Sons,FONMVE-259,Rim Lichen,42,622,675.33
+26/02/2020,Facebook,21821b7f-669f-4f72-93d8-f472224e3f7b,"Mueller, Lowe and Ledner",ASGFIU-762,Roseling,164,56,328.42
+19/01/2020,Percycle,bdf5f156-4e99-400e-8d0c-4d73f777bf6b,Smitham Group,BLBULZ-087,Mountain Evening Primrose,315,927,558.5
+17/05/2020,Criteo,ef6a933a-06e4-48e3-b03a-2447ffc3a2ac,Kihn and Sons,CBUDQN-865,Velvet Ash,967,255,455.8
+07/06/2020,Twitter,a5fe33bc-3eff-475c-b724-04cfe1e39e9e,"Romaguera, Berge and Swaniawski",VYFLZH-775,Giant Red Indian Paintbrush,749,320,366.98
+29/06/2020,Google,b98a944e-3555-4cf6-bff4-791bc27c01ec,"Lemke, Mann and Lang",BPZBAU-166,Hymenostylium Moss,633,554,508.48
+04/08/2020,Facebook,6e40eda6-ec98-479f-a28f-2fab045f1c2c,Marvin-Orn,SEIIMO-927,Mallow,399,334,891.08
+10/08/2020,Verizon,19cf23ec-1b1e-4663-834c-e97f68083f7e,"Dach, Schmeler and Gulgowski",NVUKAR-156,Asian Ghostweed,173,612,36.37
+09/07/2020,Verizon,ac08be48-c541-422a-985c-295260c61ac5,Stiedemann-Russel,GHUITB-728,Flatspine Stickseed,914,629,310.44
+22/07/2020,Percycle,aec85b90-4c14-4753-a274-844aaf95e790,"Legros, Daugherty and Kilback",FPKCGU-107,Atwood's Buckwheat,496,191,942.65
+05/04/2020,Facebook,f9501218-9411-459b-906c-d5ad6b01b546,Olson Group,JBLVBK-242,Pineland Pinweed,932,393,34.18
+05/03/2020,Percycle,10c5db66-d64b-4eb1-aafa-f29069ae60f1,"Tromp, Howe and Carter",ZMQYKY-468,Sea Putat,129,982,488.04
+11/01/2020,Facebook,27c1ce14-77b2-4d8c-9f3b-a8375d0c711d,Watsica LLC,WWZBMR-607,Churchmouse Threeawn,470,474,227.19
+09/01/2020,Criteo,24fef7f5-6529-49c5-ab36-d120d7193100,Jacobs-Gutmann,PZVMRG-082,Esmeralda Buckwheat,194,481,504.42
+15/04/2020,Twitter,dad97cbe-8ca6-42b7-a3c7-fe35437aca07,Schamberger-Mann,EFSOHT-493,Boreal Sagebrush,618,885,407.5
+24/06/2020,Criteo,c8a3c3f7-b1a8-4c28-9a42-cb364640d038,"Macejkovic, Luettgen and Heidenreich",RHYQIE-725,Gyalidea Lichen,445,557,150.83
+10/06/2020,Google,4c74a42c-0b87-4bc7-bce6-28dd16f8c598,"Denesik, Klein and Sawayn",JWXZGB-019,Fringed Passionflower,661,24,816.07
+27/04/2020,Facebook,607bce87-9827-49cd-a8cc-d6120f0f4698,Ledner Group,KKSDOC-869,Columubia Rush,945,588,187.19
+04/06/2020,Percycle,ae8368af-b68f-4655-916f-cb7ffef78721,Ferry-West,LGPIQD-738,Saelania Moss,434,790,422.11
+19/04/2020,Facebook,267927fa-860a-4240-b0cc-92040e886557,Altenwerth-Gerlach,LRZVBL-207,Thompson's Buckwheat,622,938,197.09
+02/06/2020,Twitter,3662be62-991b-4135-865b-e2b52efe8838,Hudson LLC,BACXTR-651,Woollypod Milkvetch,554,384,83.74
+09/07/2020,Google,df83f99c-6b58-4fb0-8d07-32a7d0eb1f51,"Streich, Christiansen and Kerluke",TOVYOL-498,Pyrenocollema Lichen,808,471,640.87
+27/04/2020,Google,9c58cc8e-d9e8-46bc-b89b-9b7f42f13d34,"Lebsack, Keebler and Quitzon",XXZDYV-589,Carpet Grass,773,876,718.22
+19/05/2020,Google,8d699373-c527-4786-a7aa-2a77ac71b86a,Heaney Inc,FHFNFP-987,Threepetal Bedstraw,187,747,255.8
+25/03/2020,Criteo,4662e757-572a-475e-8aab-19e2240cb87d,"Bailey, Dibbert and Monahan",YCERSG-431,Calopadia Lichen,164,491,16.41
+21/04/2020,Facebook,5e9b1ca1-c122-4710-9a51-6b9ab803c79d,Osinski Inc,ALODPD-552,Ross' Avens,896,42,850.89
+21/06/2020,Facebook,20e60f81-a42b-4103-a2be-8781898170fc,Treutel-Douglas,FBUWXY-015,Oblong Bluecurls,696,366,639.83
+14/05/2020,Google,54ea7cb2-d965-4bf4-bd8a-4e1c868ef9ef,Rohan-Olson,QZTQJB-821,Mandarin Lime,806,995,61.51
+17/04/2020,Percycle,f0fe7d9b-f27b-4f91-85ca-f208c14ce942,Friesen-Schultz,HLBFRY-370,Zollinger's Fissidens Moss,324,724,567.73
+30/03/2020,Percycle,582533d2-c233-4ee6-b44a-d4d915025114,"Roberts, Marquardt and Kuvalis",QVHVVC-454,Gulf Pipewort,489,419,62.87
+17/05/2020,Twitter,a7c7874e-f771-4216-9f27-14226f8f496f,Osinski LLC,RBEVGA-554,Northern Wildrice,799,189,598.29
+13/08/2020,Google,21cd6cdb-3b82-42af-b916-f33bb75a6b97,Grady-Toy,IFEZSS-797,Fragrant False Garlic,463,721,555.69
+29/05/2020,Google,ff27eb64-caee-4f59-bba8-b9a0133a2a93,Cassin-Emmerich,CSCYRV-199,Mustard,67,184,813.75
+02/02/2020,Percycle,1ef68640-3dc0-47a8-adbb-759e48a3ab4e,Davis LLC,OZSHXU-249,Alkali Seaheath,1000,55,905.82
+08/01/2020,Percycle,bd2b69d1-4e6d-408e-a73b-375e45393fc3,Ruecker-Miller,DXZEKW-285,Tuerckheimia Moss,691,243,908.83
+08/02/2020,Facebook,26a9064f-9f87-4455-b216-1ba118513eca,Jones-Lemke,DIWKWN-717,Pocono Plateau Dewberry,487,706,92.97
+17/06/2020,Facebook,079cf35c-124d-4bcc-bb48-8c7f024a7141,"Jerde, Hauck and Hackett",MSLYIF-443,Oneflower Helianthella,715,379,310.74
+03/08/2020,Percycle,193c4a73-37be-4cd5-82bc-e343870fc401,Lubowitz-Spencer,GBVWQQ-749,Mexican Rush,368,448,751.23
+12/05/2020,Percycle,398fa50f-f883-4256-8046-40b634d9cfcf,Kreiger LLC,TSLFMD-360,Porsild's Bluegrass,834,941,219.89
+29/06/2020,Google,43b25495-8328-43cc-bc12-2a361bc0db85,Beatty Group,FPCKDX-737,Plumed Rockcap Fern,473,932,26.42
+25/06/2020,Twitter,618fc56e-fd25-4e85-a7a6-848aba1d76a1,"Smitham, MacGyver and Rogahn",IKZROY-592,Navajo Fleabane,688,352,891.53
+15/04/2020,Facebook,3527bbde-f19d-4fc4-b9a7-72e98d7f9e27,Feil Inc,VEKJFO-886,Doubtful Knight's-spur,980,841,213.52
+12/04/2020,Google,c2832772-bec8-48e6-8bda-63c6d501a2ec,"Quitzon, Schowalter and Brekke",QMANOG-727,Common Plantain,845,588,335.76
+10/02/2020,Percycle,f7e950f0-1666-4a20-95c0-7fa7b1fb67c5,"Walker, Klocko and Volkman",CYKWHJ-693,Winter Vetch,279,247,643.46
+01/02/2020,Twitter,9475209b-5052-42e5-92ce-31fb21e4047e,"Klein, White and Gottlieb",LTZKQT-753,Helmet Flower,623,30,566.73
+26/04/2020,Percycle,016dd1ab-6bab-41d4-9ba6-f600b5f030d3,Nienow-Powlowski,KQMOJA-753,Pricklypoppy,729,68,180.28
+26/05/2020,Percycle,20583cb5-cc68-41ab-9719-48296ef53ffc,Hartmann-Moore,SIWMIQ-022,Crescent Milkvetch,283,481,939.11
+11/06/2020,Google,0c660ff9-1a33-435b-9a5f-8d845fd6d7ea,Johnston-Senger,LSEKLK-635,Scepterbearing Fleabane,424,383,416.4
+12/06/2020,Google,c29ca86c-be62-4148-9ede-2aac9707ee9d,Howe-Ruecker,EYEIRH-437,Koolau Range Papala,808,353,269.98
+09/08/2020,Percycle,12122c5a-987d-4ce1-aa1f-577c452490d7,Rowe-Schultz,XDSANW-958,Aquarius Plateau Indian Paintbrush,350,429,771.24
+01/01/2020,Criteo,8bc31501-522e-4ff9-ac26-25a5d1470131,Oberbrunner-Murphy,MLGKHC-892,Swamp Boreal-daisy,267,629,526.19
+11/02/2020,Google,cfd0da5e-ec25-4267-a0c7-e8b055574cf0,Upton-Wintheiser,NHTYQW-802,Ophioparma Lichen,802,633,875.08
+24/02/2020,Verizon,3d28e117-1544-4ef6-b5ef-50c641697309,Torp LLC,LMQFEF-463,Parish's California Tea,600,143,40.75
+18/02/2020,Criteo,f6df9615-9256-470a-bd06-646c0523efbe,"Trantow, Beatty and Schaefer",OZIIWZ-757,Lindberg's Sphagnum,884,152,255.3
+21/02/2020,Twitter,17fdd7a6-66b6-44d6-b2e2-caa3452ba3db,Little-McCullough,GFSIVG-751,Columbian Milkvetch,575,852,514.48
+15/01/2020,Twitter,79631d1a-daf7-4a9b-8a14-f5c5eea400cf,Considine Inc,MHZBCG-508,Spreading Windmill Grass,997,872,989.93
+15/03/2020,Google,01e919d5-564d-4fd7-a223-c22d6c214a53,Klocko-Schaden,URIBFI-590,Hooker's Scratchdaisy,216,399,412.21
+08/05/2020,Percycle,3a54d3dc-5fc3-4537-945b-60f7333c6405,Denesik-Ritchie,TCUEMG-516,Bride's Bonnet,544,37,243.34
+24/03/2020,Verizon,11d42ecb-9407-4b90-bb59-bfcbe4fe612d,Torphy LLC,TYOAWS-232,Dog Figwort,366,525,441.39
+03/03/2020,Criteo,62052500-f45e-4085-aa0e-cc6274fccade,Kassulke-VonRueden,RRZGJJ-485,Pallid Hoptree,239,626,662.77
+04/05/2020,Google,fd9cdc7b-5eb2-4f23-b0b7-3c83b6ecb196,Nicolas Inc,YPOPVG-462,Ciliate Reindeer Lichen,820,158,901.55
+06/01/2020,Google,45dd8a0e-96d4-444a-920b-26faaf564ab3,Walker and Sons,BKIDGK-809,Staghorn Fern,582,657,758.46
+30/08/2020,Facebook,380b90b1-1a6d-4746-b619-67fa3c77afdf,Predovic-Jacobs,YNOJEM-662,Belladonna,75,778,296.26
+21/06/2020,Verizon,f4ba1554-ce6d-4a83-94ab-7303ff05b072,"Collier, Paucek and Legros",IKYCSA-652,Hybrid Violet,938,461,579.2
+11/03/2020,Criteo,45e9c792-5944-48ea-ae75-fa604cab15bf,Stehr Group,JDGEXD-088,Soldier's Orchid,656,968,631.62
+23/08/2020,Twitter,02b2944d-39cf-4e6f-8e03-387b03fbb3b2,Klein-Bechtelar,XMPLBN-987,Shell Lichen,917,551,874.52
+04/02/2020,Twitter,de86af5e-4f4f-4ee3-8b9b-2305d1d33329,"Powlowski, Klein and Funk",WWWUFP-101,Rendle's Meadow Foxtail,98,407,844.01
+18/07/2020,Verizon,eb7af1cc-651a-4bf4-97d4-967e7da96f11,Heller and Sons,RDFBPH-987,Batesburg Hawthorn,316,815,868.12
+05/03/2020,Percycle,8303f6a3-8d88-4995-8371-1b13a8af8534,"Carroll, Greenholt and Barrows",ZIFEHL-546,Acacia,58,111,347.64
+23/06/2020,Google,e7d9a344-9a5c-4638-a0e5-4f1192bb1d95,"Marks, Hickle and Renner",XQUMKZ-335,Mutis' Flatsedge,587,864,622.09
+09/04/2020,Facebook,5c3c2c60-83ef-44cc-8c07-d0b816810c87,Ankunding-Bernier,NBUWYY-168,Johnsongrass,134,514,286.42
+25/08/2020,Criteo,22bebd7d-d0e7-42b7-8f6c-1a060c775050,Price-Stark,VAIWQK-076,Widefruit Sedge,450,628,390.36
+23/04/2020,Facebook,34b6b76d-219e-4476-b9a1-376868e939d6,"Gottlieb, Hamill and Funk",TZOMXW-237,Peashrub,764,395,85.16
+07/05/2020,Criteo,3014cd08-4642-4ca8-b3de-06b8c932c2f0,Glover-Bernhard,DQSJHT-397,St. Andrew's Cross,650,634,449.42
+26/01/2020,Google,9888ba16-6bec-4546-a0ed-7832d2e9d91a,Jerde Inc,OYDXMN-438,Lindheimer's Bladderpod,463,380,639.56
+13/06/2020,Twitter,45e83388-33fe-4767-9c87-12119fd886fb,Shields Inc,VSFKWO-795,Campylopus Moss,905,376,379.84
+15/05/2020,Criteo,22f5797d-6124-41c3-912c-1a9b1620897f,"Rice, Reynolds and Blick",XAEYTD-487,Cornish Mallow,526,438,238.96
+30/04/2020,Verizon,3419d594-f966-457c-8aea-8ff9c589dbd1,"Wisoky, Morissette and Lockman",LMXVLZ-129,Oblong Salvinia,487,764,837.68
+27/01/2020,Facebook,e767a190-8c78-4cde-9903-1e7abbe94a21,Runte-Lynch,KTGPMS-806,Ammi,666,865,535.05
+14/06/2020,Verizon,07c31e71-a907-42f5-8900-bf4d6c96ba47,Sawayn Group,IRSIDL-236,Gollania Moss,267,317,621.22
+21/04/2020,Facebook,bfcf2fa6-6764-4fc8-ae56-c127121f7de4,"Sawayn, Koelpin and Legros",IDBOJX-930,Ragged Robin,582,364,269.93
+16/04/2020,Google,f67fce03-eeb3-4ba1-9750-1c0a071997de,O'Hara-Franecki,BGLOWM-412,Tetragonia,457,430,665.09
+20/03/2020,Percycle,f18a0632-1dbc-4947-a3fd-b32317860342,Mohr-Marvin,HIOFQS-513,Bog Aster,56,952,592.14
+08/06/2020,Facebook,dfd591a2-ee04-4672-a7a5-f4be436c21e3,Reilly-Altenwerth,JZUBZO-227,Legousia,295,719,257.37
+10/07/2020,Criteo,0a4ce175-3205-4526-9a91-0ed899c77991,Brakus-Feest,GRHWKY-421,Easterbonnets,642,377,367.07
+06/03/2020,Google,1f56c3cd-7bbe-4255-ac8b-e659595c22ab,Dare-Carter,YLMLZW-883,Banana Yucca,146,279,895.12
+25/01/2020,Facebook,e702e6ed-7458-496b-aaae-18cdbe8a24a3,Gislason LLC,SPBAJE-752,Dark Raspberry,904,224,635.97
+06/08/2020,Verizon,1b03b3e3-3703-477b-aebb-27aeb1d4d670,Jacobi Inc,YJNTCD-612,Ballou's Melicope,482,939,210.33
+15/02/2020,Verizon,f4b11211-df0c-4fd3-ac38-8360e7f6d824,"Stanton, Padberg and Runte",DOQKFC-318,Bigflower Tellima,530,817,495.62
+17/07/2020,Facebook,e0da759a-0c4f-4887-a993-a4dfc1057f4c,Leffler-Hackett,ZWCKKD-765,Pinesap,731,915,257.24
+05/03/2020,Percycle,44f530ec-4553-41bb-ae93-9cf11a92bec9,"Braun, Weber and Spinka",FPURXP-082,Marsh Violet,397,398,580.59
+08/05/2020,Criteo,b19648b1-bde3-46f4-9c32-b3185952b7ae,Witting-Fahey,AMSNBQ-726,Club Lichen,775,921,451.71
+14/01/2020,Google,34e32079-67b4-4828-9b69-dc2204510bda,"Lind, Stracke and Rath",BKCTOL-872,Utah Sweetvetch,696,577,237.16
+27/04/2020,Criteo,c15e78df-036e-4f69-85cd-463858d32727,"Zboncak, Daniel and Mayert",WULVDA-064,Boston Ivy,92,525,911.77
+13/06/2020,Facebook,f2fd8a09-b4eb-4101-a991-395f0f90f5a7,Koepp-Beahan,ATCDHP-474,Hypnum Moss,749,860,587.56
+28/05/2020,Facebook,16c5e2f6-f89b-4e49-b988-0c1bc7ce4fc4,Lindgren-Gusikowski,BREITD-265,Cherangani Clover,908,944,716.81
+31/03/2020,Google,d52b6f20-a637-43f6-b7d3-485ee16aff95,Ankunding Inc,AXEAIR-497,Dot Lichen,592,702,198.99
+21/05/2020,Google,e41a8834-bf91-43c5-b871-15555d38bd1b,"Blanda, Bahringer and Becker",WTCZXE-363,Great Lakes Sandcherry,222,260,66.81
+30/06/2020,Google,a337b7ee-c13a-472d-b874-094544dd4c91,Gibson-Wilderman,QDEJMS-618,Woodbalm,670,264,422.35
+27/01/2020,Google,2a580169-6bf6-4065-943b-786e9d905c51,Yost LLC,RHGQLG-610,Wetherill's Milkvetch,444,735,737.49
+15/06/2020,Twitter,0d16ff38-af31-444c-8229-0e02805ff85d,"Kessler, Gleichner and Hodkiewicz",PCFNTE-705,Falsegold Groundsel,798,555,638.1
+19/08/2020,Verizon,95a7109a-1bc5-4393-9d56-0d8d4fe8a0df,Dibbert-Boehm,WKRURU-300,Arctic Bryum Moss,56,111,667.78
+07/06/2020,Criteo,c92799ff-93a5-4b72-ae31-8d376fec1d06,Labadie-Prosacco,LTZJIJ-199,Grimmia Dry Rock Moss,287,777,251.88
+16/01/2020,Facebook,101dd3b8-f69a-4e5f-a32c-9970211e1643,"Johnson, Ryan and Hills",WMLTCO-485,Lecidea Lichen,479,706,422.35
+15/06/2020,Twitter,b032b010-8377-45d9-9f6a-8d03befd3b9b,Yost and Sons,ZENGKC-849,Tropical Pondweed,511,826,809.84
+24/04/2020,Percycle,5346a63d-127f-44dc-89a2-08ad6a3f51b2,Larkin-Leuschke,KKGRLC-638,Stiff Greenthread,222,796,67.15
+03/06/2020,Twitter,0909543f-524b-4cb3-b38c-45cf0128f6fb,"Mohr, Hamill and Hackett",YSMXWP-980,Perennial Soybean,368,153,658.09
+21/05/2020,Twitter,cfdfa10f-8f90-4191-8156-512f4d08fe20,Mraz-Hilll,XDRTTT-659,Fourleaf Mare's-tail,310,692,714.21
+12/02/2020,Google,d07dcaec-c3de-4dd9-9989-bfc3fa69bac2,Hane-Thompson,KYDQBM-010,Pleuroziopsis Moss,785,714,999.9
+22/04/2020,Facebook,3be633a5-49b0-4ba4-9613-7b28353412eb,"Schmitt, Conroy and Johnson",WWDHOZ-736,Yellow Mountain Saxifrage,404,85,129.41
+16/08/2020,Verizon,34a0fdc9-4358-4200-b1b3-5523288a8e65,Wolff-Brakus,QRFBGO-651,Purple Poppymallow,595,891,305.24
+08/03/2020,Criteo,c5ffecc6-4ee6-404c-b5de-1a83c06fd770,Zemlak-Schmidt,QLSFET-144,Alternateflower Watermilfoil,291,623,209.0
+31/01/2020,Percycle,c512e0bf-bad4-4ff4-a706-fab134eacb49,Hirthe-Huels,FXUOOM-939,Disc Lichen,444,674,230.9
+19/06/2020,Facebook,be8cf0ec-aec5-43ec-9dc3-5255d77cf752,Dibbert Group,ORWLJG-439,Macdonald Oak,760,319,287.42
+30/07/2020,Criteo,09b5fbda-48e2-4e01-8415-a1efe89f6eea,Veum-Heathcote,FLUWSA-696,Wedge Sandmat,677,835,940.83
+24/01/2020,Google,a511200e-7f81-4b23-b531-e4eb135191ad,"Ledner, Kuhlman and Durgan",ZSMTJQ-681,Stanford Orange Lichen,435,647,208.81
+08/02/2020,Google,57fed1f7-9be4-4f7b-9226-6d29f30aa386,Tromp-Jacobson,LORPTN-521,West Indian Bluestem,765,28,340.91
+03/03/2020,Verizon,115b7eef-2a80-43f3-b2aa-709c10054780,Prohaska-O'Connell,FOIMVT-914,Malibu Baccharis,569,758,292.29
+29/05/2020,Criteo,737e3265-ca5a-48ff-81ae-cf8b2bfe6b0d,Hills-Mayer,YVJYPM-339,Furcraea,445,292,360.91
+19/07/2020,Twitter,85b59422-989c-4bb0-b31c-02253db6f136,Renner-Boyle,JRYGJC-209,Ballou's Melicope,457,522,528.07
+18/07/2020,Twitter,f9d35601-ad26-4c20-9f4b-4b5e381184ab,"Carter, Weimann and Jakubowski",NVABCV-760,Nephelium,488,136,477.09
+05/08/2020,Verizon,0f71527d-6b72-49eb-be12-9038ab94139f,"Spencer, Thiel and VonRueden",QVALHJ-922,Southern Lipfern,892,326,958.98
+22/02/2020,Percycle,902cd0ac-4a91-4374-9a6e-6a39f313e25a,"Von, Reichel and Marquardt",EJDXFR-906,Tahitian Gooseberry Tree,873,545,981.4
+05/07/2020,Percycle,873fca97-de59-49ab-be73-c26909415394,Conroy LLC,HSSQBN-508,Orange Lichen,946,660,842.06
+24/02/2020,Twitter,4f970fc5-c787-47b7-922b-ec86e560e1db,"Olson, Bode and Beatty",ESQMDL-990,Long's Sedge,441,913,756.97
+05/03/2020,Criteo,d5dce6be-0ebc-4187-9e72-aab7ac2d785f,Koelpin-Anderson,GNQSUS-855,Capillary Hairsedge,923,396,515.9
+24/06/2020,Facebook,b665f428-6006-44c3-a62f-838f628ff109,Friesen-Flatley,YGRESJ-620,Parmotrema Lichen,535,584,288.42
+28/08/2020,Twitter,da17b19a-c522-4ded-8855-49067d85c225,Gaylord-Simonis,TXPYXU-602,Pygmy Clover,945,68,934.57
+25/02/2020,Facebook,bd42088b-e54e-4673-93ca-67c6bcce12cc,"Wisoky, Lind and Hintz",ADNUAU-129,Pipsissewa,813,787,798.19
+31/01/2020,Criteo,66a677fe-a78e-4761-bbb9-9b24b9d96456,Carroll-Gorczany,MNTLOF-305,Tropical Ticktrefoil,346,969,606.96
+06/05/2020,Google,fd34a96c-91ea-40bb-94b3-4aee8f0d0638,O'Hara LLC,WKMYYK-250,Wright's False Threadleaf,873,346,442.18
+10/02/2020,Criteo,14aef9d1-8951-4b70-bb9a-2ebba6f2a91b,Bins and Sons,BIQNBO-843,Dalechampia,795,867,422.67
+13/06/2020,Percycle,3997bcfd-1fab-41ba-a4c1-7d71e05e41f2,Muller Group,AZJZCA-191,American Dunegrass,550,78,84.43
+11/01/2020,Percycle,91f7db7d-0655-4b35-b484-9e1fe1617ccf,McKenzie and Sons,HKWDJA-186,Lengua De Vaca,115,779,41.97
+03/02/2020,Twitter,8da40ce9-dd93-402b-8cc8-7d7444765fa9,"Jenkins, Roberts and Gleichner",XWYRMI-445,Pasionaria De Cercas,566,950,329.66
+19/05/2020,Criteo,513f2103-1706-4ae4-bc6b-0e07ffe29738,Beatty-Gibson,XLRUXM-976,Swampfire,731,58,867.24
+02/07/2020,Facebook,c901b8d1-0972-4cd9-b1af-3485bf0a77dc,Larkin Inc,QPSEAK-551,Kidneyleaf Rosinweed,877,371,109.96
+23/06/2020,Facebook,246fda3d-542c-44c8-8c18-ef2093d39b5f,Wisozk Group,TCNMBO-854,Baltic Sphagnum,686,698,482.36
+17/03/2020,Percycle,e9ea3a3b-91be-4f22-8bd0-0bb0a57867fa,"Weimann, Marvin and Nikolaus",JTMBLU-767,Wart Lichen,482,235,157.71
+05/05/2020,Percycle,36a8b2ed-2bfb-4865-b58d-717a4a49a78f,Rath Inc,TQBHOK-473,Alkali Milkvetch,873,817,977.63
+02/08/2020,Verizon,fbccfebc-3fff-457e-abad-14269d4f7727,Price Inc,EVVVQK-020,Fascicled Beaksedge,754,535,607.0
+30/05/2020,Facebook,cc281e38-14d1-4d6c-94e9-2ad5445bbd4a,Erdman-Bailey,ALUGCP-662,Shield Lichen,225,91,145.56
+06/07/2020,Criteo,d73b8d65-41c1-4d0c-b97c-06f64e0c09d3,Kessler-Monahan,QZYCGX-424,Harbison's Hawthorn,950,426,977.14
+28/05/2020,Criteo,fbecfa42-f1dc-4c18-bdbb-d8a3538a9051,Mosciski-Roob,XHCIOB-454,Missouri Gooseberry,831,253,267.86
+21/07/2020,Twitter,a0f68f2e-b265-44a0-b7b4-5f37f6150b0b,Halvorson-Bernier,HGBYMJ-976,Ethiopian Dogstooth Grass,345,923,584.79
+07/02/2020,Percycle,dbecce85-2f32-4063-9fab-44acf01501b8,Mayert-Satterfield,VVFVAP-912,Crabgrass,462,122,757.71
+01/06/2020,Percycle,1018c2a1-43fd-4887-9a18-3d378867106f,Feeney-Bradtke,GKFIJX-081,Psilopilum Moss,227,30,275.75
+05/03/2020,Percycle,9dd21969-8e63-4216-94d3-7c5391c134b6,Lehner-Dooley,NLUXPS-092,Douglas' Onion,906,563,478.14
+30/06/2020,Facebook,94ca9675-566a-49a1-9d72-9f37aead5a7f,"Stanton, Dicki and Wyman",KTRAMW-155,Fremont's Chaffbush,416,536,217.49
+28/02/2020,Facebook,e0f2c8fb-20c5-4a61-9696-55fa7991bfe4,"Sipes, Bruen and Kihn",XKWSBF-783,Streambank Wild Hollyhock,821,403,743.32
+24/07/2020,Verizon,a202bba6-d424-4100-ac34-1168640d8e46,"Batz, Littel and Stokes",PWGTOK-542,Peregrina,251,589,405.87
+13/05/2020,Google,c4d4b718-a668-4aed-9dce-b09e7381c984,Torp-Price,CUQNSQ-164,Turban Sedge,959,347,89.35
+28/05/2020,Verizon,69f6cd6c-dae4-485b-b208-eddb33341352,"Sauer, Yundt and Hills",HEIMHA-199,Prairie Cordgrass,408,878,643.31
+21/07/2020,Criteo,66bd90e2-57d6-4475-8d8b-f571a3c439c1,Becker and Sons,NJOSQV-660,Domingoa,693,986,305.92
+12/01/2020,Criteo,8faeb937-320e-4f08-b0fc-7bdec8c7b953,Wolf-Collier,HWFTWQ-467,Slender Hairgrass,141,353,416.52
+18/02/2020,Twitter,3f52bae7-60b9-4ec3-91f9-59692e0cf03a,"Strosin, Schiller and Feil",HEABVI-197,Arapaho Sedge,332,928,708.34
+26/05/2020,Google,f1d0c3c9-1295-4627-930c-e69a3462e59e,"Renner, Feeney and Abshire",KZPOJT-920,Pericome,682,754,835.93
+29/01/2020,Facebook,ec650672-ca96-4e05-8565-832cf1903165,Huel LLC,VCBHBN-196,Fan Spikemoss,145,904,860.36
+18/07/2020,Percycle,0c260ea2-d885-4e18-9914-f4ba3f85606f,Adams Group,DLSBJR-588,Sea Dahlia,862,239,879.18
+14/01/2020,Google,de54e0fa-db92-4538-bca6-d088fcca6ddd,Mraz LLC,NKNFAP-995,Salmonberry,909,437,50.47
+29/04/2020,Google,5be4ae70-bcd3-47ee-bfda-bdf1b06866fe,"Sawayn, Russel and McGlynn",CMOIGA-900,Lellingeria,134,425,279.46
+03/05/2020,Verizon,37429280-16f6-4410-a1b7-05798751d81b,"Trantow, Gibson and O'Reilly",SGLGVZ-109,Capitate Sedge,182,57,926.88
+04/04/2020,Criteo,c8d55762-eb69-4221-975b-64b522126ba2,"Ratke, Schuster and Mayer",FZCRZM-165,Hawai'i Pearls,167,168,771.87
+10/01/2020,Google,07c0b7a4-449c-492e-bc5f-6d0cd5bc57fe,"Goodwin, Dooley and Ernser",BVPFKT-497,Pereskia,323,359,86.47
+07/06/2020,Twitter,53d7252d-aa9d-4a6f-ab16-ef326efc4778,Wilkinson and Sons,ZBKKVW-819,Southwestern Ringstem,664,288,697.47
+01/08/2020,Criteo,c66ea05f-bc2f-4f43-a722-3b52a4ddd901,"Metz, Waters and Emmerich",XGAQLJ-138,Caribbean Pine,262,524,712.55
+13/07/2020,Twitter,4036f7f7-189f-41f8-8521-4f7e9c5dbb7d,"Considine, Mante and Eichmann",CESLRI-422,Falsegold Groundsel,131,622,198.56
+09/07/2020,Criteo,2b098914-a98a-4b55-b382-5ff672897733,Berge and Sons,CCNXGH-173,California Waterwort,668,955,213.48
+11/05/2020,Verizon,c3cee9a1-d413-4006-9e11-e3bc93c41700,Greenholt LLC,UDKIWX-223,Douglas' Thistle,241,920,884.87
+27/01/2020,Verizon,aed80dd0-f73c-4ee1-b745-a96ad049d69a,"Abernathy, Brakus and Runte",DJSDBU-132,Pensacola Hawthorn,290,759,593.85
+11/01/2020,Twitter,4bf98db9-c426-4b7e-9544-429a5d53b799,Gulgowski-Schuster,NKFLWH-187,Alsia Moss,75,303,508.67
+01/05/2020,Facebook,ce1af521-cae6-464f-906f-e75018a3f63f,Abbott LLC,WQNMUC-703,Bingen Lupine,372,175,158.89
+27/05/2020,Criteo,1f949162-6b29-41a4-a16e-1cfb1915c25c,"Langosh, Nicolas and Beer",GPYULP-330,Late Honeysuckle,23,535,320.28
+22/07/2020,Percycle,cdf655db-9234-480b-845d-fa5b2077b7cf,"Corkery, Muller and Lubowitz",HMNXOL-977,Sego Lily,983,261,791.66
+13/06/2020,Verizon,73232846-04db-496f-9917-afbbd13bc2f8,Stoltenberg-Hettinger,DQZDDW-140,Lamiastrum,415,343,530.89
+20/06/2020,Facebook,8cbd1087-7f9b-4c02-8849-d6c51f0dbc2b,"Hintz, Kassulke and Thiel",DZWMUL-991,Dialium,752,467,284.77
+13/06/2020,Google,2083f019-ca2a-4f8f-a791-ed9a2efdeeb0,Heaney LLC,AAPAFV-044,Western Bog Yellowcress,203,842,267.05
+04/04/2020,Verizon,4ed38136-7617-4160-b4a4-6629b03ee084,Davis Inc,RVMPPI-584,Rosette Lichen,46,736,855.04
+12/01/2020,Facebook,18731b83-a144-4b85-b4be-e7417eb0e554,"Boyer, Mertz and Gaylord",EBMWNF-185,Palisot's Calymperes Moss,691,833,552.38
+27/02/2020,Verizon,389903f2-5478-4fb1-be30-b72bcfff1687,Gerlach-Murphy,MPJDDP-760,Fewleaf Spiderflower,43,306,486.94
+17/06/2020,Facebook,82ccc65d-555d-4210-9040-5eea34ef25b1,"Wehner, Morar and Kris",QQFGEL-813,Boreal Sagebrush,334,783,328.96
+29/06/2020,Criteo,ba0cb0cf-8613-4961-86bb-0c8c644a55d7,Bogan-Cummings,YMUDHP-840,Whitetip Clover,678,965,976.3
+23/05/2020,Criteo,08d2d8bc-3fb3-4f9b-a04b-22787e3b33be,"Cremin, Kuhn and Lueilwitz",EHVDKV-417,Aphragmus,706,619,450.32
+18/03/2020,Criteo,c9cb9332-65c8-4871-ab48-45e4ecb30d6d,Reichert-Koch,UIZEDY-413,Southern Milkweed,788,364,913.5
+29/08/2020,Verizon,da72680a-fce3-4cd5-a6de-0340da5212ed,Jacobs-Kozey,SAPBBV-957,Fissidens Moss,967,949,772.72
+09/08/2020,Facebook,0b526349-ebc5-45b8-9682-b1fcdf485c7b,"Prohaska, Kirlin and Morissette",ESNGLG-254,Dot Lichen,148,70,67.16
+27/08/2020,Twitter,109948a2-4b0b-41fc-84d5-347d03d62745,Schimmel Group,QGOTZI-220,Parasol Draba,515,640,881.26
+20/06/2020,Criteo,60f69e96-aa3f-4ffc-a314-33de68801f24,Gibson LLC,OLTUCC-433,Kern Larkspur,390,794,873.87
+09/07/2020,Facebook,69b9a898-f946-4269-961f-670e36bb4927,"King, Hilll and Kohler",RLSZJD-852,Greenland Northern Rockcress,502,98,508.88
+14/07/2020,Google,75c851bd-0359-4178-9b61-b6896c290cd3,Wintheiser-Tremblay,LBCTVR-058,Spreading Spiderflower,172,991,49.58
+19/02/2020,Percycle,a7732e5e-8bb8-4672-be64-88d1feb7c436,Anderson-Bednar,FKMZMF-639,Narrow Helmet Orchid,944,195,183.84
+20/08/2020,Twitter,5d528554-ec95-47d3-a3b1-778837e88a60,Quitzon-Price,IIVAVW-751,Cypress-pine,696,27,196.54
+30/01/2020,Twitter,f65b36c1-bd4b-4cc6-aae1-18ae7f85d76a,Runolfsson LLC,RUQYZB-773,Fivepetal Cliffbush,900,252,60.89
+29/06/2020,Criteo,adb52485-1071-4645-9b80-0bf3d0595e5f,Roob Group,ICMMWH-235,Husk Tomato,63,273,695.14
+17/01/2020,Facebook,9a8b580f-4eee-417f-98c2-fdf62e2e2d11,Quigley-Quitzon,GOWSJH-137,Mexican Passionflower,568,370,246.31
+13/01/2020,Google,e23fa354-8b76-4d85-b2a5-e89a5c2a2e36,Bayer-Kris,MYUELA-948,Dwarf Groundcherry,224,50,100.46
+08/01/2020,Facebook,2f01ba0f-88e8-4853-8e76-1bca8214235c,"Beer, McDermott and Kilback",SVHSKR-735,European Gooseberry,128,830,624.48
+16/01/2020,Percycle,ae08168b-146d-44dc-bdb5-6d468d672694,Ebert and Sons,HHQGCH-230,Liddon Sedge,683,603,124.08
+07/07/2020,Percycle,34a2fa26-17bc-46a4-b3b5-966f0dba3596,Bradtke Group,RKGASG-972,Narrowleaf Laphamia,154,427,866.91
+20/02/2020,Facebook,262f52ce-1224-4c33-b69a-d0dfa5e59141,"Gottlieb, Rohan and MacGyver",CXSWZM-405,Camel's Foot,875,417,785.07
+17/02/2020,Percycle,b5b56237-8d4d-4be4-9b50-1366b2fc308e,Macejkovic LLC,GAESXV-991,Sessileflower False Goldenaster,764,967,418.91
+01/03/2020,Verizon,774ddba9-b128-42a4-9657-210b264f22ce,Huel Group,YOHUAC-148,Notable Wattle,540,913,858.02
+22/02/2020,Google,d333051c-99fd-4714-abd3-b8705897a8e3,Wuckert Group,TIJHTA-528,Amur Peppervine,208,540,835.29
+12/06/2020,Google,d982ef8f-7e4f-40d0-8d56-aef7e65a5303,"Rice, Shields and Heathcote",BHVGTY-157,Brownstem Spleenwort,126,48,374.25
+11/01/2020,Twitter,68abf772-1684-4f68-8b98-a91a80c2062f,Yundt LLC,YQFRDQ-230,Nuttall's Crinklemat,205,73,249.0
+25/05/2020,Criteo,3fbd2f00-c948-452b-93be-2530f6b3a986,"Hackett, Tromp and Mitchell",OUZLVS-251,Rabbitfoot Clover,452,130,317.2
+17/04/2020,Twitter,3d940d08-d45c-4406-9fb1-8298050d8013,O'Kon-Blick,KBUTME-208,Spring Mountain Milkvetch,449,528,65.93
+07/03/2020,Google,38d96a75-0bb2-4c8f-8d56-a8a1b5d7b143,Kling Inc,WYJHLT-422,Palm,86,697,933.01
+22/05/2020,Criteo,39ce3260-2200-4a0b-a48b-0fc676f8c6e4,Ullrich LLC,QUVKFK-779,Dwarf Poreleaf,905,77,909.81
+13/01/2020,Percycle,07a61ccd-9547-41c3-8ea1-9434ecdbb2d8,"Streich, Kuphal and Hintz",MYRCRA-299,Alabama Larkspur,215,292,708.13
+12/08/2020,Criteo,1925369c-ff24-4441-9c38-bee960e032d7,"Heller, Cassin and Heidenreich",MFSJVX-236,Pukiawe,910,682,905.82
+13/03/2020,Percycle,7e2a20f7-6b74-49ae-b30f-ad49ac5d1917,"Beatty, Roberts and Jacobs",QPOIEZ-453,Pismo Clarki,474,401,234.18
+15/05/2020,Percycle,0deaa68b-7a18-45e3-a85e-f9954933bed4,"Kreiger, Gorczany and Mitchell",QRCTAU-785,Indian Warrior,200,965,245.01
+20/03/2020,Criteo,f81292af-9b8f-45f4-abb3-480dfe032027,Frami-Mohr,LOEZTA-777,San Bernardino Grass Of Parnassus,741,960,623.48
+15/08/2020,Google,d5a079ae-1ef1-4d41-88db-a79df20914c4,Nikolaus-Jakubowski,BIXUYF-659,Bottomland Aster,244,270,129.39
+02/04/2020,Facebook,a4ca783f-4371-4963-bc42-232e388cea98,Langworth Group,WCKWRN-445,Scarlet Bottlebrush,182,949,320.09
+03/08/2020,Verizon,36debc66-7851-4561-9b4e-5ee36c31e781,Corkery Group,WNYGXO-484,Ravenel's Cup Lichen,210,135,964.43
+01/08/2020,Facebook,91e86ddf-3e0f-4948-96c3-02028ae9e416,Will-Ritchie,XESDVH-573,Silverleaf Milkvetch,513,427,22.23
+21/05/2020,Twitter,e3c41595-da7a-48bb-829e-e2d327f1544e,Upton-Wiza,IVZVYI-733,Zarzabacoa De Monte,789,71,539.19
+09/04/2020,Verizon,a00d63c8-8310-481c-9d6f-0f5bedef5c1f,MacGyver-Bauch,NKTLOQ-013,Virgin Phacelia,166,572,919.19
+13/04/2020,Twitter,9bada2c0-a934-4663-9bd2-3e1fc09ea4c8,"Murray, Lockman and Greenholt",TGUGVA-323,Purple Monkeyflower,725,293,431.17
+03/08/2020,Criteo,95bbd3d4-113b-4df1-bb3c-0829f67cf9bc,Roob-DuBuque,KCCKYB-369,Purdy's Stonecrop,197,651,868.42
+24/01/2020,Verizon,2a5b8421-e01a-4e09-b510-f1c80b5bc338,"Spinka, Kassulke and Streich",QRJCXA-273,Desert Sand Verbena,126,964,617.27
+08/04/2020,Google,9b9ec044-71f5-490b-bbcb-c9f86ab2d15f,Smith-Feil,MHOKVZ-704,Othake,1000,784,982.95
+13/01/2020,Twitter,ad831b7b-ef55-4ea7-8d5a-4a0eb6b5acb7,"Predovic, Harris and Weimann",WMZUMV-382,Koholapehu,585,114,632.53
+01/03/2020,Facebook,3986ef04-f290-493d-bc3b-b872fec8be05,Langworth LLC,ZZQYPT-933,Bryum Moss,112,328,683.23
+07/03/2020,Criteo,69231656-c07c-4c87-90e3-b6334e14a8cd,Bartoletti-Krajcik,LYPSYC-500,Texas Yellowstar,466,258,948.06
+26/05/2020,Criteo,515da495-56d8-4413-bfc0-ccd947cadcfa,"Flatley, Thompson and Zulauf",IJYASF-452,Butte County Western Rosinweed,187,539,272.37
+15/07/2020,Facebook,dd4aafad-995e-4162-a29e-a5564fd76359,"Considine, Johns and Nienow",BTKWTB-091,Abiu,797,301,216.96
+16/02/2020,Percycle,5a795e8b-9fa9-4503-831c-949b33c50a94,Reinger Inc,CJWFCF-492,Matilija Poppy,115,854,948.07
+27/08/2020,Facebook,8e1e40e3-7364-44bd-9f98-a3753d029c84,Moen-Jaskolski,LHNFZD-275,Hairgrass,260,612,286.97
+27/07/2020,Verizon,b36c2470-db65-4d27-86f0-108997b8b318,Osinski and Sons,EDIGXL-623,Largebract Ticktrefoil,96,324,994.35
+21/03/2020,Percycle,5ac2a73e-06eb-4502-a99e-a53620c9b151,Leffler LLC,AUZENU-109,False Junco,719,532,630.13
+15/03/2020,Criteo,408b340f-6dcd-4b43-b469-5135a365caff,Anderson-Greenfelder,NWKFGA-090,Seaside Sandmat,414,768,32.41
+27/06/2020,Twitter,bd621ec3-c5ef-41e8-b319-d59dbb6db138,Ziemann and Sons,ZJBIMF-740,Blue Ridge Carrionflower,627,813,694.42
+26/05/2020,Criteo,69f05b67-8c62-41b2-bbb1-7e395e268ff1,Leffler-Becker,QDAEFB-023,London Rocket,959,776,557.97
+01/04/2020,Facebook,47e4ff41-5b70-473a-8953-d22fb9e975d1,"Hills, Bernhard and Howell",AZDMDA-050,Ouachita Bluet,956,89,984.57
+13/04/2020,Google,81eb2d0e-3565-41ad-8ebf-c65a98e702a5,"Schamberger, Smitham and Cummerata",FVZJBP-226,American Nailwort,360,246,292.49
+22/06/2020,Facebook,1372d01e-676a-4c17-83c8-b12866b69546,Rau LLC,ECUZLJ-134,Parry's Rabbitbrush,261,21,906.32
+04/02/2020,Facebook,49b71d8c-384f-4ad2-bac9-ff9efd56512a,"Towne, Farrell and Ruecker",SWVUHQ-275,Soft Popcornflower,516,890,173.99
+20/04/2020,Google,9536ae65-ecb8-460b-b6d5-cf20017167e9,"Berge, Anderson and Koch",ZFUCRX-945,Short-spike Peperomia,142,128,873.68
+10/08/2020,Facebook,5b1114c9-3ef8-4c09-b941-1dfed9d5c419,Effertz-Shanahan,MBQBVW-654,Paulownia,433,869,828.59
+17/07/2020,Percycle,b9a57c3d-ee7b-4f7f-b301-d26859a84506,Ratke-Gulgowski,IDPDAH-730,Awnless Beardgrass,215,69,57.01
+16/01/2020,Criteo,c7f59aaa-ac74-4221-811f-c3b74d8cfdcc,"Nikolaus, Stokes and Larson",VUBVEO-222,Crossopetalum,244,347,364.37
+10/03/2020,Criteo,1c4fd6e6-2bc6-4dc7-8cab-eb089933d455,Mante-Dach,WNZYIX-880,Alpine Sweetgrass,119,355,716.48
+13/03/2020,Verizon,eb9fd030-e389-4606-a870-abc5ba6e2e2c,"Sawayn, Hane and Runte",YDCHWC-984,Orange Wall Lichen,868,138,683.01
+10/05/2020,Percycle,8aa29496-39eb-4407-abcb-cbfbbba4080f,Mills and Sons,GWSSXX-894,Wislizenia,665,805,137.44
+16/07/2020,Criteo,28d5e591-da79-4ae8-98c1-6885f92e327d,"Maggio, Runte and Hayes",JVMSAO-263,Skunkcabbage,165,254,30.28
+16/05/2020,Verizon,01c25af2-81d4-4d2c-8d6c-6d3e198762bc,Legros-Fadel,XZDERO-033,Prairie Groundcherry,924,423,255.95
+28/02/2020,Percycle,210a5b78-548f-402c-bfe0-65322d3c1a04,Padberg-Cronin,TLBXCB-437,Beaked Clarkia,248,696,929.64
+13/05/2020,Facebook,2a9a0592-9a0a-4277-a88f-ab9f38e4e11a,Wiegand-Wyman,EVQWSQ-398,Sierra Lewisia,580,297,680.19
+18/06/2020,Google,5278df4a-2966-42b8-98fb-2bcba378d453,"Hammes, Kunde and Jast",JIYSES-989,Melaspilea Lichen,116,394,587.64
+09/07/2020,Google,6fa7d34f-1673-455e-884b-bc778f6e21da,"Jacobson, Pfannerstill and Ruecker",MMRGNU-552,Indian Hedgemustard,646,747,727.37
+05/02/2020,Verizon,e1d994f5-06c3-4857-9d24-467ec66ff848,Hills-Swift,RMPEHH-480,Feijoa,102,118,526.38
+17/05/2020,Criteo,de62046a-36b1-499f-83c7-2718d1a9e76e,Kessler-Tillman,SMAAGV-048,Averrhoa,730,433,704.24
+28/04/2020,Facebook,9b2b2464-b02a-46f1-8b94-a4adafd00d48,Denesik LLC,JRAGAN-493,Conifer Broomrape,76,664,80.08
+19/05/2020,Criteo,817b85d4-1f0b-4ab6-9d4a-6c7d1b500ee6,Legros-Hansen,NBUCLL-608,Danafern,536,92,134.1
+27/07/2020,Facebook,6c7c1031-3ada-4102-b3e7-2c15c6c74bef,Hilpert-Fay,JADZRA-290,Twogrooved Milkvetch,878,225,792.2
+18/06/2020,Percycle,f1a3e65a-5e32-4435-9401-6401c6596768,Ankunding-Altenwerth,HNUFXJ-997,Stenocybe Lichen,572,891,861.44
+01/06/2020,Google,c67dcbb4-70ec-44ff-871a-11935d56d595,Walter Inc,CDOXXJ-428,Slender Cinquefoil,608,99,470.31
+12/03/2020,Percycle,86322998-25d0-4218-9505-db206739c121,"Considine, Carroll and King",YTFLSV-391,Watson's Bedstraw,61,471,829.69
+29/04/2020,Twitter,0cd3eb68-a64b-47e5-a750-fbed3f5d7027,Goodwin Group,JJWUFT-478,Felt Lichen,401,681,589.27
+09/05/2020,Criteo,1c1472eb-5af8-4cf5-86c6-9148167e37aa,"Paucek, Boehm and Hyatt",PYCMGX-737,Screw-pod Wattle,704,63,747.38
+24/08/2020,Google,05d91c31-c565-491b-a0d9-d13a5c8b9570,Rippin Inc,QGNBNR-672,Norwegian Cinquefoil,194,11,914.07
+19/08/2020,Google,ed41ca6e-87c9-403b-a3d0-6e3bed8db45b,Hodkiewicz-Glover,TUUTWH-963,Glacier Buttercup,695,495,964.24
+15/02/2020,Google,c7967627-e49a-4706-8f98-693ee77fd542,"Hauck, Marvin and Conroy",KROYBM-702,Yukon Lupine,778,282,645.54
+01/03/2020,Percycle,bbb00dfa-a25b-4edc-bbc1-b9eda5d0181d,"Welch, Collier and Spencer",SLMTRN-556,Hybrid Oak,716,743,521.89
+10/01/2020,Twitter,cb3cd93e-7151-4dad-a13d-b85bbd86fc90,"Schowalter, Goldner and Daniel",PWFDOV-896,Island Orange Lichen,166,468,64.57
+26/05/2020,Facebook,724172b6-cc31-4206-9ae4-8a7deb2dd681,Terry-Hoeger,VKGQJE-695,Carite Babyboot Orchid,269,650,262.87
+05/02/2020,Criteo,7c7d258f-cf37-407e-a7d2-7d2f03e21156,"Emard, Kris and O'Conner",GQSCRU-158,Hybrid Willow,225,414,834.61
+02/05/2020,Percycle,225f9008-695d-479b-a73e-c08ac5f83cf9,Heaney-Hilll,JKXOUM-773,Caro De Tres Hojas,198,864,810.88
+11/07/2020,Percycle,a25e55a0-3b13-431a-a2d0-e3500c129413,"Bins, Legros and Baumbach",HOOORG-318,Chisos Mountain Pinweed,251,643,235.46
+21/02/2020,Twitter,4c539038-15b7-4948-80ab-163a38f70add,Kerluke Group,UKHQKO-160,Wavy Heliotrope,382,183,844.97
+16/03/2020,Google,4d9677a0-8fa6-4709-a05f-02a08d2eb951,Strosin LLC,REXGTX-374,Azure Blue Sage,955,574,257.8
+25/06/2020,Criteo,2cff4d72-31d8-43b3-8033-661c11c23b2b,"Renner, Hermiston and Mayert",HALWIE-427,Eastern Poison Ivy,873,457,463.84
+02/08/2020,Criteo,d6b16ee8-68ad-4807-ae39-eaa1aa85ac64,"Daugherty, Fahey and Wolff",AGSAMP-922,Cold-desert Phlox,443,113,165.22
+08/04/2020,Verizon,937618be-7eab-4f96-a1b1-c5dfbcf23187,"Carroll, Stamm and Von",IHNNDM-101,Whitenymph,607,388,561.65
+30/08/2020,Google,b860ebaa-20ba-4911-8c65-d6ab323c413d,Reichel-Weimann,BCKQNS-473,Delta Bulrush,336,836,467.84
+08/03/2020,Facebook,a6aec142-cfa7-494b-b96f-f5201c19fef7,Bashirian-Hilpert,XHXRVU-758,Squirreltail,305,835,664.9
+16/07/2020,Percycle,1bd3163a-5c2b-49c2-ade2-5646ae194624,Boyle-Harris,WMDDJD-441,Rio Grande Stickpea,537,797,503.0
+10/02/2020,Criteo,02b8ca33-0449-4299-aae7-225e4234ba63,"Kub, Nikolaus and Dietrich",ZIMGMB-403,Limestone Glade Milkvetch,557,761,994.69
+21/01/2020,Twitter,dc79312e-a269-4129-8ae2-18f8a3de5d2b,Maggio-Hills,WDLNWL-424,Masonic Mountain Jewelflower,875,32,151.52
+11/01/2020,Facebook,35b98ec8-a9af-459d-8bf2-37bf988f28a7,"Krajcik, Lockman and Terry",ZSCVIC-374,Mahaleb Cherry,742,863,530.06
+18/02/2020,Google,64d0bf4a-1d39-41f6-8831-2a3a149bf8d1,"Turner, Hauck and Cartwright",AXKYHK-121,Dutchman's Breeches,604,641,619.99
+12/04/2020,Facebook,4989f7af-add0-4dff-8f22-3b112a43990d,Dicki-Kemmer,PRXPIO-776,Rothrock's Fiddleleaf,82,374,482.52
+18/08/2020,Verizon,30e68cf1-3574-4706-8e23-f4db1fbb6852,Langworth-O'Kon,OCMJPC-034,Desert Wishbone-bush,612,189,258.06
+20/04/2020,Verizon,55a6b076-d9ed-4fb5-b53f-5455580962a7,Lockman LLC,TTMNAP-237,Hybrid Oak,971,249,68.93
+11/07/2020,Twitter,e8c3822a-c624-47bd-90c3-1d9bae3e60ff,Gutmann Inc,ZIKZIW-512,Largeleaf Rose Gentian,87,91,237.02
+10/05/2020,Google,9dc2c36e-7c2f-4e90-87ae-d0c71c6fd737,Tromp-Corkery,LEAVXH-831,Broad Halberd Fern,627,210,658.26
+28/01/2020,Twitter,e66d2b30-7f3a-4c65-b969-674dbfaff53c,"Hermann, Christiansen and Spencer",XNEPTK-782,Sierra Ragwort,314,292,183.07
+06/01/2020,Percycle,647193f8-6eb8-4a99-a89d-0cd1b2bd58cd,Walker and Sons,OCOACU-918,Pseudoleskea Moss,955,30,803.2
+28/01/2020,Google,f7d4218b-21d8-4239-9575-68c5bf936ee3,"Von, Gislason and Weissnat",KVSCRQ-838,Psophocarpus,678,172,829.48
+26/04/2020,Verizon,fb911fda-d0f3-4424-b722-62469cceb5c3,Hansen LLC,TSKCFR-521,Skeletonleaf Willow,184,418,517.42
+01/04/2020,Facebook,ea4417fc-3ca9-4d0c-9b12-964f736c4a95,Bradtke-Ondricka,PXHHFM-380,Sandhills Lily,299,141,536.67
+25/04/2020,Percycle,6331d155-37e1-47d5-abaf-4396eb399242,"Lockman, Farrell and Kessler",BEWXFT-368,Chalice Lichen,922,607,77.6
+18/04/2020,Percycle,ab8bcb85-0013-48a1-973b-ef9d335c44f5,"Thiel, Haag and Dach",IZLRGJ-659,Petunia,772,623,624.17
+18/03/2020,Criteo,fc678a93-e144-4334-8751-0e05d428af2f,Larkin Inc,NPZTTQ-728,Hawthorn,277,604,488.66
+06/06/2020,Twitter,95f4735d-b829-45d7-8886-eeb614627283,Bayer Inc,NJONGZ-863,Mapleleaf Grape,84,684,46.44
+09/08/2020,Percycle,d9b25ddf-eca8-46fb-9876-07981e7ad76f,"Shanahan, Barrows and Parker",FYJWFX-685,Red Fescue,498,38,90.05
+28/05/2020,Percycle,a37ff599-3d61-4e52-bd6e-364cfb86e2a7,"Runolfsson, Hahn and Koss",BIPZXP-060,Downy Phlox,811,147,497.69
+17/05/2020,Criteo,6771f15a-861b-4fe8-b8f7-e4aa07deb1db,Schoen and Sons,HBNIUF-174,Palmer's Mariposa Lily,700,676,716.09
+21/04/2020,Twitter,ae813121-7270-4d46-8abe-86a0f7802e1b,"Veum, Zboncak and Kilback",LJHIQB-583,Nevin's Woolly Sunflower,980,851,332.97
+15/08/2020,Google,a38c56be-4e83-4a4d-abed-f9d585cc226b,"Larson, Marks and Lindgren",BEIIHW-192,Melastoma,419,568,120.99
+26/06/2020,Criteo,7a0d547b-3bf9-4716-92f2-e639f5125f91,Carroll-Parker,GSVVZD-492,Low Silverbush,558,322,738.58
+31/07/2020,Verizon,204ad5c2-2f9e-44c7-9133-89a301f1533e,"Lakin, Schneider and Flatley",CHSYBP-519,Groundcover Milkvetch,563,926,414.82
+29/08/2020,Verizon,e55b4671-100a-4298-b357-eb41c184c967,"Senger, Brakus and O'Connell",GGMOIO-610,Sporopodium Lichen,538,468,650.98
+05/04/2020,Percycle,fabb180d-8aa2-486b-9c1a-07044dc1ffc1,"Hansen, Gleichner and West",TACJZF-765,Willamette Fleabane,888,340,76.14
+10/02/2020,Twitter,0b787792-c2f4-4f00-9363-c9a8dd93f7db,Kemmer Group,PZWDQR-440,California Sweetgrass,489,636,209.57
+28/03/2020,Criteo,fce1234c-aeaa-439b-af0d-1e8cd6e05e50,Marks-Waters,AVLMAY-856,Carolina Crownbeard,200,75,682.07
+29/08/2020,Google,987ab4c9-3545-48bd-83a3-a26532860350,Leffler-Will,RLFOCC-189,Hooker's Bristle Fern,648,623,568.98
+29/03/2020,Percycle,5e19b476-81fc-4b94-b1b9-c3d20604c0e1,"Balistreri, Russel and Rau",OWCCRX-672,Farr's Willow,525,727,960.87
+24/05/2020,Google,928a43e3-dc15-4d22-b655-c9d274fced8b,"Walsh, Zboncak and Reichert",ABDPVM-782,Fewseed Sedge,295,449,85.5
+31/01/2020,Google,3219f1f1-ec6f-4075-8aad-14ebbc762a53,"Walsh, Langosh and Klein",FIJNTC-915,East View Rubberweed,984,896,133.0
+19/05/2020,Twitter,d3948a3f-9020-4633-8069-0e0be7d07667,Kessler-Mayer,LTABMV-315,Cedar,406,711,366.35
+22/03/2020,Percycle,7bb1d131-1751-48f6-ad80-d6a2ff9baf3f,Goodwin LLC,GPKLBY-407,Iron River Dewberry,243,213,640.26
+29/03/2020,Google,f7fb8eb7-b980-42c7-8142-637c42dcfaee,"Huels, Wisoky and Williamson",RGSXCX-720,Arrowfeather Threeawn,148,564,80.3
+23/02/2020,Facebook,2118a8e2-98e7-49e7-8a37-6268da762a06,"Oberbrunner, Kirlin and Reichel",PTQZIL-357,Gypsum Blazingstar,790,457,113.91
+09/07/2020,Twitter,10c94406-b353-421a-9824-df699baad406,Gusikowski-McDermott,LMKKMY-980,Blackwood,82,773,858.6
+07/05/2020,Criteo,7fcf6096-64a1-4049-a17a-e11fde0cb5ea,Kshlerin-Parisian,RDHPUE-639,Davidson's Rockcress,21,235,852.82
+26/05/2020,Criteo,df0d0fd4-7476-44e1-b26b-1db29b8d7de8,"Littel, Aufderhar and Batz",TBNTOT-392,Resin Cheesewood,108,947,768.34
+05/07/2020,Facebook,7f2731c2-ecd4-4e21-8210-f104b164e635,"Herzog, Waelchi and Mueller",ISLVON-690,Scrub Palmetto,337,949,376.22
+20/04/2020,Twitter,0ba4ebe5-8621-4567-81a3-e6cc35935c91,Osinski-Streich,LLHEYP-475,Twisted Cleomella,908,617,272.83
+19/07/2020,Facebook,62849006-6a57-4084-bb92-46fc25626f34,Stroman-Walker,APFHOL-997,Paperflower,515,366,921.38
+14/03/2020,Percycle,2332e808-ab6e-4e46-96e3-b1ba8e93a0f7,"Hammes, Connelly and Mann",UWLQSL-412,Paraguayan Dock,608,897,979.17
+11/01/2020,Google,e80a1537-7a96-4e5e-b2a9-a3218b73bdcf,Ortiz-Zulauf,YYNUXS-294,Compact Chickensage,445,305,597.37
+02/01/2020,Twitter,ab68b628-535e-4e4a-b33d-188857f40384,Johnston Group,DMPQKN-457,Greenland Lecania Lichen,74,719,493.77
+25/07/2020,Verizon,ed64af29-db00-4de6-8c66-e586af16c131,Kunze-Leuschke,RVOJXY-041,Stahl's Valamuerto,556,826,803.73
+03/03/2020,Percycle,7212eca4-c923-428f-a444-03aafcfca8a3,"Shanahan, Lueilwitz and Paucek",AGPPLE-470,Erectstem Saltbush,173,532,138.25
+02/03/2020,Facebook,e5c939c9-80c8-45c1-8f4e-febf54469aae,Harber and Sons,ITCLGI-880,Woodbury's Stingingbush,634,173,811.17
+08/04/2020,Percycle,7da26cb5-5862-492c-b28c-4592b34a4861,Hand-Hyatt,RXDHJB-770,White Shootingstar,122,819,710.65
+03/01/2020,Criteo,ec98d6c7-0e1a-4e69-8a10-e787e76f2151,"Crona, Boehm and Armstrong",MVNRUN-780,Oahu Rollandia,392,286,430.06
+07/05/2020,Google,db326949-4455-4e03-b257-2ee69521d58d,O'Kon-Ritchie,NDVGRN-556,Club Lichen,56,410,833.25
+16/01/2020,Facebook,f3d664ad-946c-4db8-bf0a-5bc8160479b6,McLaughlin-Padberg,QGUXEP-060,Appalachian Polytrichum Moss,501,927,404.03
+20/01/2020,Twitter,e5b7e58d-5b3b-4273-a579-841b2db1324e,Lebsack LLC,DZZIYD-952,Hassea Lichen,968,415,678.13
+05/02/2020,Verizon,bd98e973-a8dd-4871-99d0-b963078b0f30,Padberg-Auer,JFJWDN-207,Yellow Rabbitbrush,584,713,567.38
+02/05/2020,Twitter,f795aaa2-cb59-48b3-9d33-b6b6b9b2c624,Hauck-Pfannerstill,XZLHQA-640,Seashore Lupine,544,417,380.4
+10/01/2020,Twitter,42f7e106-26a3-4ad7-bc91-ae16a39796b1,"Howell, Fritsch and Murray",IAKBJP-181,Graceful False Flax,463,35,990.5
+02/06/2020,Percycle,24cc27a8-ac25-45cf-892a-51d822d6ff14,"Borer, Robel and Carter",TXXNFV-015,Bush's Poppymallow,506,583,589.69
+11/02/2020,Verizon,1fc1e6dc-944e-4fb7-947b-314f6c6c52c7,Beer LLC,SQPSHC-382,Fassett's Water-starwort,666,914,793.01
+25/04/2020,Twitter,86889b32-a09e-4aa6-84a0-a85038115864,Stanton-Barton,YIIKUJ-567,Grimmia Dry Rock Moss,719,280,886.84
+31/01/2020,Facebook,8034d811-16f9-4bc0-b97f-512a5bf3335d,Heaney Inc,BFSOVX-401,Alliaria,979,719,544.45
+11/04/2020,Verizon,e646829b-c7c0-42e1-842e-63926add871d,"Schimmel, Smith and Harvey",UBDCJX-718,Mcallister's Phlox,488,187,425.48
+09/05/2020,Google,a9b5b029-1f3e-4421-9467-a9c175924a78,"Jacobson, Simonis and Schimmel",KWWEGF-921,Arboreal Leafystem Orchid,970,404,766.34
+20/02/2020,Google,f3de46ed-9c97-4a1e-b824-05814aa4bcf2,"Bogisich, Donnelly and Considine",EONCWM-632,Saxifragopsis,421,413,311.38
+28/02/2020,Percycle,f0b1cedb-88e2-4440-a59f-27d4198774f3,"Hayes, Hyatt and Blick",ASPRRT-533,Low Mallow,332,564,104.5
+18/02/2020,Verizon,4f9142ce-e377-4584-ab16-358426a38091,Quitzon Inc,WHKZAH-201,Szowits' Madwort,418,480,528.35
+27/01/2020,Google,24d49979-9b3d-4783-a5cb-d3a67c9ad4bb,Graham LLC,FEPPZI-714,Mexican Starwort,150,737,177.8
+28/07/2020,Criteo,c173e5cf-9ede-442d-ab6c-c8cdaada861e,Baumbach-Yost,WJPNGH-423,Lapham's Phlox,236,452,396.2
+04/07/2020,Twitter,a766d7a7-cab4-411a-93fc-ad5a0748e53b,"Kiehn, Sanford and Runte",WLLNFP-437,Slippery Burr,255,168,610.88
+29/08/2020,Verizon,a3479b79-1b41-4233-8198-391ba11e8fc3,Skiles Group,IRURYH-871,Puerto Rico Cinnamon,903,415,97.12
+07/04/2020,Criteo,1bc48ee6-9604-40bb-a2b7-27a28e5ba2c6,"Watsica, Weber and Mills",WTOLED-888,Brachydontium Moss,445,994,889.03
+23/06/2020,Facebook,3a5dfe6f-eb48-4c36-8b55-1981a1a30f50,"Weimann, Lemke and Little",QGNCXE-662,Graceful Filmy Fern,550,462,83.54
+05/03/2020,Criteo,9722aba2-5b99-4fe3-8537-1806fde7d24d,Volkman-Brekke,HOHXAZ-180,Fuzzybean,226,156,354.77
+05/06/2020,Twitter,06671d24-e161-433b-92b7-fdfeaa273012,"Prosacco, Nader and Bergstrom",LHJPOC-536,Oahu Dock,543,184,169.11
+29/04/2020,Percycle,80231435-648b-4bf6-8ae2-6f166e30205f,Breitenberg and Sons,CFXQCO-122,Pinkflower Bindweed,490,890,455.17
+13/01/2020,Facebook,7af0f2ee-9f4e-4328-83f6-0a4426485e86,Jacobs Group,GVSXLX-792,Florida Roseling,265,158,927.44
+14/03/2020,Criteo,10422710-26a7-417a-8a33-7573a46f32d8,"Maggio, Batz and Huels",DYTEZX-719,Yellow Nailwort,719,995,899.17
+27/03/2020,Facebook,50b4e9b0-6ec2-4af2-bac4-69eb3ab898eb,Waters-Huel,IMJJWL-490,Bourgov's Milkvetch,745,97,37.87
+21/07/2020,Verizon,62b40d71-0de5-4f5c-a951-21c09482e08b,Ruecker-Turner,YQCMDW-756,Mycocalicium Lichen,803,570,881.29
+05/06/2020,Twitter,9b8de2a3-e549-4af9-99de-01b97174254c,Kub Inc,ARYDPL-872,Pole Butterflybush,862,220,68.72
+17/02/2020,Criteo,5aba325b-9300-4904-b771-b7a05849a724,"Harvey, Reinger and Wehner",JMLXAD-435,Glypholecia Lichen,799,404,628.39
+11/03/2020,Twitter,296b7aee-7d46-4b8b-8c64-f319797bbe2c,Johnston-King,PWLLFY-677,Puerto Rico Ghostplant,436,392,33.3
+31/03/2020,Facebook,63c57dc1-8c6a-4af4-a708-631c5ae55802,"Haag, Pollich and Weissnat",YVMXYP-890,Gray Springparsley,364,854,661.39
+25/01/2020,Twitter,9af4e655-62c5-4025-b08f-d87ea118c2c7,Rowe and Sons,LXJXFD-486,Common Goldenstar,661,204,618.92
+21/05/2020,Verizon,d0cd2599-8be1-47a7-8a69-28e11f014da0,Glover LLC,BDBXGB-181,Apalachicola Toadflax,834,629,630.66
+14/03/2020,Google,04c7fb83-29ff-43fa-a24a-4d3df752760a,Shields Inc,AEZXJG-408,Map Lichen,625,75,243.89
+24/04/2020,Facebook,87ee69f9-2cc9-4446-ac45-ee05a3696939,"Mills, Wilkinson and Kunde",JHKCPU-496,Pinnate Dahlia,342,735,213.41
+21/04/2020,Verizon,b6ca77ac-d7eb-47a3-be59-352aac716a97,"Kunde, Beahan and Prohaska",OPRLQS-013,Hairy Bird's Beak,243,723,579.85
+12/02/2020,Verizon,ede10388-2c79-4924-8b62-410b3a593dad,Gleichner and Sons,HFQQQB-681,Pawpaw,55,659,684.58
+22/03/2020,Criteo,3114c71c-2bea-4f68-843c-6b0516b4b938,Cummings-Kilback,BRUEUU-613,Soft Aster,534,368,652.01
+30/08/2020,Criteo,7f174080-6599-48bc-bf96-03bfc6992deb,"Kirlin, Block and Gutkowski",DFORJT-647,May Hawthorn,749,416,528.13
+04/02/2020,Criteo,d320c4d3-f4d3-44c0-a17f-aa18c0a548ca,Kerluke LLC,IQEBBZ-819,Silvertop-ash,49,311,865.76
+07/07/2020,Facebook,c2093ae0-9eb1-41be-9576-ca31c684ffb9,"Schuster, Yundt and Reynolds",UWXNMJ-352,Pale Fleabane,945,550,765.28
+17/06/2020,Criteo,2cb925bc-fbeb-4d66-88e1-456da050d910,"Kohler, Keebler and Haag",RPVDPY-703,Hollyleaf Pincushionplant,444,449,289.78
+19/08/2020,Criteo,8f6f47a8-d375-4d34-a967-2901e2699eb7,Tromp LLC,NCAYCL-771,Reticulate Silverskin Lichen,920,131,612.27
+20/08/2020,Twitter,67256bdf-9e66-4869-9c8c-ad929ae8f70f,Hartmann-Lehner,IGTNXB-699,Hill's Pondweed,878,56,517.81
+10/08/2020,Percycle,d2bae7a2-5f39-475b-81f7-1589a59f5d1d,Kilback and Sons,RNDGVT-548,Sedge,288,404,315.07
+13/02/2020,Twitter,f30885ea-f888-4c53-a86a-3ed556512396,Labadie Inc,AOHSDA-924,Mead's Johnny-nip,785,198,448.2
+23/02/2020,Verizon,8c2bdbb0-9ebb-4628-b1bf-4d5fdf6e5c3d,"Fritsch, Schamberger and Quitzon",GVZMXK-309,Sessileflower Hoarypea,70,549,608.71
+21/07/2020,Facebook,9d4685cf-ab41-4ceb-968f-f68674ecfbbc,"Schaden, Raynor and Collins",EXVZLK-616,White Mountain Lupine,846,684,892.84
+06/07/2020,Verizon,26b98090-fe06-4345-bb05-9d2a847c9d9c,"Larson, Kohler and Kuvalis",KHYWWN-594,Douglas Aster,546,387,257.4
+10/07/2020,Twitter,f4f8f9a4-3523-4303-8766-defbc4d522f1,"Bernier, Sanford and Borer",OTNKPC-356,Hypopterygium Moss,722,714,674.9
+19/07/2020,Verizon,fb0fe369-a10a-4e36-87c7-812ec44039bc,Sporer and Sons,OZDJZM-655,Field Eryngo,442,756,19.05
+14/01/2020,Facebook,2fe7a839-9b42-45ea-a924-9c6847752d68,"Wisoky, Goldner and Green",GRJVOF-174,Silver Fir,51,939,992.51
+09/04/2020,Facebook,b1d273fa-c397-4291-af33-213b96ff7dc8,"DuBuque, Morar and Ebert",ATCFNP-021,Golden Dewdrops,176,611,519.64
+07/05/2020,Facebook,80788a53-5c38-4edf-b969-0c536383dffb,"Mante, Harber and Klein",JDMYLK-784,Pinkfairies,548,632,196.26
+23/04/2020,Verizon,170d03c9-a19a-47b5-8311-419692539d3f,Hodkiewicz-Corkery,TDXMPE-432,Langsat,718,395,735.54
+27/03/2020,Percycle,38cd4868-b4ab-4387-8592-5ddb5b2c4025,Wolff LLC,QAFBZT-453,Spreading False Pimpernel,449,379,673.88
+10/05/2020,Facebook,11a67a59-e16c-4b24-8a08-4645a38f3e73,"Denesik, Green and Mueller",FUJKNM-593,Wright's Golden Saxifrage,973,81,927.15
+18/04/2020,Twitter,9d337210-ac61-4d62-b47a-1c721403955a,Denesik-Terry,DMPOEH-827,Painted Desert Milkvetch,916,502,825.7
+25/07/2020,Facebook,1229475f-397d-4a15-830b-2d47b5fd7d24,"Littel, Kirlin and Hilll",JVUHIH-875,Woolly Bluecurls,762,218,473.24
+02/04/2020,Facebook,cce5d44d-b164-4b88-aa46-668837c2d4ac,"Kulas, Littel and Konopelski",ZYLUFL-996,Mycelis,490,293,925.9
+12/06/2020,Verizon,e6ae5592-5425-4912-9d71-43784598f3c1,Haley Group,OEUIYG-703,Drummond's Campion,121,297,283.28
+30/06/2020,Facebook,68df9d86-c066-4910-82b5-6e6f7047101a,Dietrich Inc,JQVHRU-911,Texas Nipple Cactus,478,783,548.4
+12/04/2020,Google,1e042414-e857-4d72-847b-103648e87a2f,Jenkins and Sons,QUFHCB-464,Greenland Northern Rockcress,898,595,761.74
+28/06/2020,Percycle,cf91bcd8-b99f-4f37-bd0d-5b8aed82e1c5,"Morissette, Kovacek and Mante",HIZZXP-993,Small Philippine Acacia,860,104,196.82
+15/03/2020,Criteo,2f42e4ee-738f-4c58-b59c-991ee4d2aa84,Runte and Sons,WEAQAH-289,Stansell's Fleabane,505,875,978.57
+01/05/2020,Google,1bfae2a3-a620-4377-9082-ec678ff3139f,O'Connell-Flatley,MLUGOI-709,Least Duckweed,689,621,260.56
+21/03/2020,Facebook,6c65d90f-c1b7-4c9e-abea-7766a3069bff,Hettinger-Trantow,RIDIRP-760,Red Maiden Fern,84,322,659.89
+01/05/2020,Twitter,89374dc8-5ec9-419a-8388-7000a76c6a3c,Hilll Inc,CPPIFR-025,Pyrenean Sedge,142,274,783.46
+17/03/2020,Criteo,93d867f1-2cbd-4d65-a90f-b999ea03dd99,Gleichner-Reinger,SEOSCS-111,Thorn Skeletonweed,787,585,633.17
+04/04/2020,Verizon,79dbb78a-5c7a-4802-9b14-3b7095bb88f9,Altenwerth-Shields,LSKAUA-467,Chalice Lichen,16,845,147.65
+13/02/2020,Google,abbf6b2a-cae3-417a-89e7-2e6f5ec4d7f1,"Stamm, Abshire and Schmeler",JPORBF-117,Elongate Dropseed,783,563,79.27
+30/05/2020,Twitter,0324441f-b516-4ddd-86ea-e2a4675ce9cb,Huel LLC,XZAWQY-729,Allegheny Monkeyflower,500,744,619.6
+17/07/2020,Facebook,a27cac13-92f3-4c64-8ecc-3f783d03e97f,Lind-Bernhard,CERUCO-547,Coastal Plain Crownbeard,301,502,431.44
+17/06/2020,Verizon,3f51d032-7e46-4758-be46-03603f360e0c,Hane-Dicki,QKFUFN-422,Grassleaf Sweet Flag,41,876,997.33
+06/08/2020,Percycle,cd0ffdcf-838e-4fa9-a76c-2ca581bea908,"Ankunding, Goldner and Cormier",LTUOYB-283,Texas Paloverde,748,471,426.43
+14/05/2020,Verizon,41186c0f-85a5-4c1e-beb3-2e4e78ab2c03,Senger-Cremin,ROQMML-080,Nixon's Hawthorn,614,64,68.3
+13/08/2020,Facebook,792ef5c6-5298-4652-981c-4a90aff587ac,Raynor-Halvorson,VZDCRR-367,Bejuco De Clavo,669,523,984.15
+26/06/2020,Criteo,393c802d-b163-4c27-aa3b-61903ee2bfef,Thiel and Sons,JTRWRN-328,Fuscidea Lichen,742,783,380.7
+16/05/2020,Google,ca8d68ea-46b3-46c0-b1ea-cba862bbfb5d,Hand Inc,RRXKAW-999,Hop Sedge,433,782,57.09
+31/01/2020,Percycle,21b56e7c-4507-47c1-b67a-4a66678b9d89,Altenwerth Inc,WEABRC-115,Reedgrass,514,173,600.21
+03/01/2020,Verizon,7cac087f-38ab-4837-b5c1-4335f7cb4933,"Baumbach, Lebsack and Hegmann",YNVTUB-786,Alkali Swainsonpea,815,230,975.59
+14/05/2020,Facebook,b16b73a2-473d-4d2c-bfa9-04bc8f6d5631,Turner Inc,HNNXNU-754,Thickstem Aster,802,278,997.18
+30/07/2020,Criteo,3b4499db-f850-4fa2-85c4-2d964fcc72be,Schneider-Emard,KTGQSF-747,Vegetable Hummingbird,903,993,126.18
+12/08/2020,Criteo,a7f6c0d6-9b52-4e0d-b85e-0c9cd0af1f0b,Schowalter-Borer,LMZXEY-477,Friendship Plant,775,349,174.91
+14/06/2020,Verizon,a2064e97-cf54-4a80-a06d-737edc5ef06e,Hills-Bosco,TLODQH-594,Broadleaf Carpetgrass,838,729,538.16
+16/06/2020,Google,d5ef7acc-ef99-461b-a7f9-45c88ad380cd,Bogan-Spinka,LDDVEW-750,Noyau Vine,333,485,845.5
+17/05/2020,Facebook,08ff2535-ac78-47a5-a7a2-8b19a9cccb7b,Hane-Terry,FGXSNM-960,Obedient Plant,658,886,951.5
+23/02/2020,Criteo,b0553b3d-d74b-4e48-b23d-9d30e54704ef,"MacGyver, Hackett and Schmidt",HMHHNF-522,Livingstone's Garcinia,759,299,202.46
+19/06/2020,Facebook,57e1fc27-c34d-41f7-b320-ba5c2ad52b1d,Goldner-Smitham,RAFLKP-467,Buttonsage,113,282,591.02
+22/08/2020,Criteo,514d1d30-9fb6-419f-a7f9-658f51e19231,Dare LLC,KOQGJM-009,Proctor's Staggerbush,988,752,177.76
+19/06/2020,Criteo,289dfd39-f14f-4996-a362-fab6d06b29e4,"Schimmel, Johnson and Koelpin",AWMPHL-486,Tacky Phacelia,191,808,470.01
+27/05/2020,Criteo,f8c90414-51ef-48c5-a585-45b7cf9ff3b1,"Mosciski, Lehner and Hyatt",TIPVIU-236,Nakedstem Wallflower,410,289,967.28
+04/07/2020,Twitter,3b2498a4-f481-41eb-9237-f8ebc2bdf353,"Bauch, Huels and Kiehn",BUUWYK-154,Zahlbrucknerella Lichen,846,413,168.54
+04/02/2020,Google,f88bc051-ad35-4a2d-8c5b-8560591f50b9,"Littel, Cartwright and Schultz",IGEVYM-736,Slender Goldenbanner,596,695,457.65
+03/01/2020,Facebook,034c2c1e-d40a-418a-9b75-4363ba968118,Morissette and Sons,HKTUYI-879,Bald Cypress,832,374,245.68
+22/04/2020,Criteo,ad12a8bf-fce5-4d96-b76b-a85c90d2780b,Cronin-Huels,IWHCLI-370,Trailing Windmills,70,110,958.12
+06/02/2020,Percycle,192c9e45-c3aa-46bb-a3b9-cb4a077b0fec,Strosin Group,HIIREP-335,Tuerckheimia Moss,25,238,113.57
+09/01/2020,Facebook,8636d0e8-b0f5-4222-b25f-372e6d21a15a,Effertz-Roob,DKRXBA-008,Bigelow Sage,361,634,744.51
+08/01/2020,Twitter,7408ce6f-8e5f-4ff6-bc88-5e6d4ea39d11,Langworth Inc,LRGYHB-256,Rivergrass,399,683,181.58
+09/06/2020,Criteo,8d6fb465-ff1d-4d8b-98f1-e05560fc7f65,Nienow-Hilpert,NFUKUX-931,Robusta Coffee,859,832,664.7
+28/06/2020,Verizon,76620826-c28d-44a6-bb76-13c787744d95,Hauck-Keebler,ADYVCH-148,Silver Ponysfoot,643,278,43.07
+09/06/2020,Criteo,55b319bd-8a5b-4c7e-90c6-8146d109668a,Johnston and Sons,DLZOMC-997,Atlantic Ivy,822,847,41.94
+04/03/2020,Facebook,c6f4c3e0-324f-4c51-b214-83abd279bdc3,Schuppe Group,NGFROL-591,Texas Redbud,555,276,313.07
+22/05/2020,Verizon,46ab43e8-2f48-449a-898c-5b08ba1a6759,"Feil, Dickinson and Ferry",ECNJSL-876,Triplerib Milkvetch,434,109,815.51
+30/04/2020,Twitter,1be0164f-0c4a-40e3-bad7-f70e0804385b,Becker and Sons,AIGHUO-387,Coral Granular Lichen,266,434,36.67
+13/08/2020,Google,77c32830-de17-4620-ade0-63e8743dd531,"Mitchell, Hagenes and Lehner",AXOSQO-912,L'herminier's Twinsorus Fern,949,398,275.43
+26/05/2020,Verizon,89666c0d-5d7f-474c-b64d-4a1434a7b79f,"Greenfelder, Robel and Quigley",JQYBQE-710,Gunnison's Mariposa Lily,290,563,966.73
+13/06/2020,Criteo,788e2f16-1b94-48fd-84fc-4e6e598a3c74,Sanford LLC,MWIFTZ-066,Salt Spring Checkerbloom,374,832,530.01
+06/04/2020,Verizon,2a3b4afe-d827-41af-90f0-e64a914e297f,Schuster Group,ECGEZQ-045,Stebbins' Hedgenettle,291,346,216.5
+05/03/2020,Criteo,57413c59-1954-4c07-b165-56de55bdd3e3,"Mayert, Hegmann and Stiedemann",CRWRHU-787,Dahurian Buckthorn,197,902,302.54
+13/03/2020,Criteo,3cbaa577-16cf-4037-a62d-90283323aa3e,Jaskolski Inc,DNILGO-953,Piedmont Cowbane,586,528,83.45
+06/08/2020,Twitter,67574ba8-6be7-442f-a599-c8ed843b0061,Zemlak-Kling,ZHUNYE-509,Lady's Tresses,953,593,690.32
+21/04/2020,Google,6fa4af7f-55d6-4f55-a423-141eb6709905,Hilpert-Walsh,IRHEZB-698,Abbot's Bushmallow,158,554,582.86
+03/05/2020,Facebook,9ef7d811-bdca-4dc3-a034-9f2565707b86,Green-Bailey,LUGNQL-291,Whitestem Distaff Thistle,569,273,36.81
+23/02/2020,Percycle,864b432b-3fcb-494f-a20f-f4d572c7ec5f,"Nicolas, D'Amore and Huel",IEVRFF-313,Bushy Bluestem,582,690,376.89
+10/02/2020,Percycle,dc75918c-961c-49af-95a6-ab06565c0f58,Dach Group,LCVKPP-216,Stonewood,810,915,178.57
+05/06/2020,Percycle,ae6c531a-6a01-438a-b0fe-3f6dd521bd05,Upton and Sons,THGLPP-946,Chinese Wisteria,347,868,605.16
+20/05/2020,Criteo,6f11ca0e-c5c3-43f3-a7bd-b87377888110,Witting LLC,QHBTXV-876,California Rockjasmine,316,33,932.55
+27/01/2020,Google,ac369d8d-b56c-4ddf-9776-8423ede655f7,Langosh Inc,NBYBJX-625,California Privet,82,871,539.74
+21/05/2020,Twitter,fbaa20fa-f249-4d0d-9920-0a6aa67df01d,"Johnson, Erdman and Goldner",KSCWWU-740,Rittok Map Lichen,264,150,138.36
+06/08/2020,Verizon,4a5196c5-ccf6-4c40-90c8-8e201ff5d238,O'Keefe-Heller,XRJJPK-998,Woodfern,869,67,671.8
+27/01/2020,Percycle,c8991c8a-d094-4a15-87fa-0a1a40e24ad8,"Hermiston, Cronin and Gutkowski",KDSIDA-579,Algerian Sea Lavender,52,559,219.0
+25/08/2020,Criteo,85cea7df-2465-456e-94af-557de232b78b,Toy Inc,NCBVSH-434,Wart Lichen,960,714,201.04
+04/06/2020,Twitter,3f3438a7-fb8c-4217-9876-427ec6c1d0f3,O'Keefe-Powlowski,NOEUVL-905,Mock Vervain,274,262,631.76
+18/01/2020,Facebook,e86956bf-3a91-4f3d-b87b-c463da736295,"Frami, Gleichner and Windler",MACTAG-650,Olympic Onion,868,311,520.51
+03/03/2020,Verizon,e6704a73-0e12-4c0b-a3ed-f1758fd1570a,"Nienow, Sanford and Brakus",DLECLV-303,Pahuen,972,184,984.14
+27/01/2020,Facebook,20381e75-acc6-4def-8f4c-26ec277b2097,Buckridge-Kuhlman,XQBHTJ-234,Mohintli,991,891,206.52
+14/06/2020,Verizon,d2194302-bc1e-4ad2-850c-c269134a5f74,"Weissnat, Borer and Lesch",OUEYHR-713,Club Lichen,43,233,113.66
+10/07/2020,Twitter,caab1a34-5132-4881-9b23-49a22ed2f305,"Gibson, Bartell and Hilll",QUBDMZ-941,Green Princesplume,546,262,133.28
+01/02/2020,Facebook,e3cb12c4-6918-4ec4-9192-9cb47b6e73cb,"Schmidt, Conroy and Fahey",IACNEZ-185,Grand Devil's-claws,97,113,586.51
+18/03/2020,Criteo,a7405857-9791-4375-806f-a4f6b3f6e8d2,"Wuckert, Schmeler and Graham",EULNPZ-545,Cataiina Beardtongue,478,524,149.46
+25/04/2020,Twitter,77b64124-daa6-408b-a3e3-c059ba9e011f,"Tremblay, Macejkovic and Bahringer",NIYLTK-855,Showy Dandelion,660,66,964.54
+21/05/2020,Facebook,34882bb6-0f2a-4d24-9b3b-364996787fdf,Romaguera-Hayes,JTCZLJ-103,Desert Rockcress,854,889,644.85
+15/04/2020,Google,f6d3280d-4631-492e-ac4f-8feb921d8750,Stroman-Koch,XFNTQD-094,Foothill Flatsedge,552,126,494.7
+02/06/2020,Criteo,7ab06b19-8d33-4291-9085-6629cba2be02,Hodkiewicz and Sons,ASBBOS-299,Littleleaf Titi,825,739,783.06
+02/07/2020,Google,d9e6f0c0-2a23-4b19-a94f-3feba960b716,Terry-Hansen,BKMTUH-429,Stiff Bluestar,866,249,989.41
+01/05/2020,Facebook,b64e0a68-3b2c-4e3b-8fe3-ca6a7b6ab1e0,Macejkovic Inc,RCMWMV-099,Texas Yucca,239,352,73.13
+25/07/2020,Percycle,8893012e-57cf-4a0c-b236-a4715d275f96,"Volkman, Brakus and Greenfelder",EBUUZJ-741,Alameda Manzanita,65,229,674.94
+16/03/2020,Criteo,6fd5854d-902f-40dc-a71b-8ac58fa12bb7,Kessler-Turner,MIVSSI-067,Columbian Rockcress,635,959,690.13
+21/08/2020,Google,5b9d5bc1-6232-4bc2-918d-a00d1c5f2b6f,"Tromp, O'Conner and Nader",BANCOP-632,Usnea Lichenoconium Lichen,394,166,446.67
+07/02/2020,Google,fce5dc5a-8016-408a-8447-60bc9d00bead,Hilll-Crona,VGVJHK-198,Quillwort,814,851,322.22
+09/07/2020,Google,c3f5b9c8-f1fb-489a-8d2f-eb3ebd3dafc3,Kirlin Inc,XNRFSE-299,Bull Mountain Buckwheat,956,78,470.55
+27/02/2020,Facebook,5f2be2c7-2f99-42da-bff7-dd7aed83d332,Kiehn LLC,AGRNRN-556,Prairie Ironweed,708,335,817.13
+18/02/2020,Google,5fc64908-06f7-4d7b-a273-e8623b3f64ea,Feest LLC,RQVXUQ-163,Italian Stone Pine,380,28,72.66
+10/02/2020,Google,476c4104-c4f7-4e40-bdc9-a4878b1b4255,Ruecker-Gibson,IQBLYA-023,Largeroot Morning-glory,81,1000,436.7
+10/04/2020,Criteo,067a830b-0cb2-4a8a-88f9-3fc81b10c02f,"Wuckert, Kerluke and Corwin",NEJGLB-233,Disc Lichen,851,557,184.44
+02/07/2020,Facebook,df4fb36d-d9ed-44ba-817a-5ba092cd5c35,Christiansen Group,OZGQGR-199,Smallflower Phyllostegia,650,392,740.0
+25/07/2020,Percycle,609acb61-9d46-4eda-bca4-9950e8d3600f,Russel-Cartwright,KGMZXP-744,Greene's Mountain Ash,618,244,447.99
+18/01/2020,Percycle,9bfbe6fd-a72f-427f-bb2d-334ef3507da1,D'Amore-DuBuque,LXKRFG-577,Braun's Erigeron,211,484,644.63
+05/07/2020,Percycle,2c61a521-da49-4f27-97d5-494985423a20,Grady Group,SCPSFW-920,Knotted Pearlwort,565,673,622.16
+09/03/2020,Verizon,4a4d3788-06ce-40f8-9ead-554a6493259f,Wilderman Group,CABSHT-586,Halodule,165,514,124.7
+12/05/2020,Google,eff8ba75-67cc-4863-90b9-0751d4181d9c,"Koepp, Rodriguez and Schulist",TLFCRC-225,Spokane False Goldenaster,709,454,749.43
+30/01/2020,Percycle,a6541e29-1b9f-417f-b9e5-55ac55207272,"Hackett, Wisoky and Sanford",BGEQVN-685,Bigleaf Paspalum,312,153,339.53
+05/02/2020,Percycle,d4abe9fd-3c3a-4975-ad98-36fbfd597477,Ruecker-Armstrong,MLTVVY-094,Franklin Tree,734,332,960.42
+23/05/2020,Google,41d254c4-66dc-4525-89b3-be26d6dde92b,Schultz-Mayer,QJUUVX-146,Northern Dandelion,802,830,968.58
+30/01/2020,Verizon,9797c299-b220-4a33-8639-dc997dbdc266,Ryan Group,KFHERV-717,Carrot,457,823,877.0
+12/03/2020,Verizon,20a4ddc5-abf3-4b37-9ba0-dc1e7ba93798,Ritchie-Wiza,BZXUBM-578,Warnock's Rockdaisy,308,692,495.32
+13/01/2020,Google,8daba538-f6ab-454d-b090-4843dcdff584,Hickle and Sons,TGXISH-235,Snowberry,54,484,468.09
+16/01/2020,Percycle,9903ca8f-b05e-4fe9-87c3-f95790adda8a,"Senger, Reynolds and Barton",UYIYXI-103,Camasey De Costilla,282,573,619.33
+18/08/2020,Criteo,722afa81-9f44-4d7a-a552-433a009a882e,Jerde LLC,SPBZRA-735,Abrupttip Maiden Fern,130,243,855.08
+22/03/2020,Criteo,adfa252d-907b-4b35-9458-2684b0058ae2,Muller LLC,RCMTLK-386,Oregon Orange Lichen,708,313,818.19
+16/01/2020,Percycle,a73d9905-328a-4722-a1f9-f23abd680ce8,Cummings and Sons,JUCQFA-907,Neneleau,313,75,970.69
+07/02/2020,Facebook,cb8b25a5-f0c7-497e-b638-f49f44b6f63d,"Smitham, Kutch and Thompson",GTXNBY-383,Biriba,283,347,965.98
+04/01/2020,Verizon,f56ffd96-f8d6-415b-96fe-493a81981471,Hilll-Grimes,FOUESJ-622,Yellowdot Saxifrage,741,923,593.25
+14/01/2020,Twitter,99979e11-938a-4687-89c1-6dd4f7cfd973,"Rolfson, Kovacek and Lind",RLFATV-512,Feltleaf Willow,132,88,647.78
+05/05/2020,Facebook,17d61d31-6bd7-4775-b90f-0ccbba9f3179,Thiel-Marvin,KSEWSY-562,Batwing Fern,368,64,375.63
+22/04/2020,Facebook,ff4ed7d6-0375-4a49-9222-e758295d27e3,"Ruecker, Will and Larson",IKRMFJ-567,Roundlobe Hepatica,91,185,663.69
+23/07/2020,Google,d643dd49-9936-4127-8259-b66e6e31245e,White-Breitenberg,HHQMGS-453,Herre's Dimple Lichen,18,943,120.87
+05/03/2020,Verizon,936f5251-84d0-473c-9bbc-891df9e98f59,Hudson-Jacobson,WBCAWR-372,Nevin's Brickellbush,791,339,699.52
+12/04/2020,Verizon,80ec86ea-bbdd-4747-a65a-3cc329816973,Gorczany-Anderson,VPDXXF-037,Albizia,514,537,857.55
+22/08/2020,Twitter,5e60cf73-0742-4214-83ae-2bb79a246f7f,Kovacek-Hansen,BMMNYX-927,Nodding Ragwort,212,622,500.11
+17/05/2020,Verizon,95a7727a-0a6c-482b-8d8a-b32941a97559,Barton Inc,LBOAQA-439,Texas Crinklemat,484,66,756.56
+07/06/2020,Verizon,0d531f76-65c6-4279-8053-1a0619fb749c,Monahan LLC,WRBUTT-328,Feltleaf Willow,374,349,510.7
+01/02/2020,Facebook,9c886a09-1f56-4314-91ea-4cf1e6ecdb8f,"Ullrich, Mann and Predovic",TKRPBO-977,Diminutive Chryso-hypnum Moss,776,704,450.04
+09/04/2020,Google,b05068cb-0d58-4dc3-ad8c-5975f9c8f99d,Carter Group,GUSJDO-544,Browneyed Susan,359,565,50.81
+14/05/2020,Google,39219476-d0fb-44af-b17e-9c6b1eb25178,Feest-Oberbrunner,RUMRNX-309,Oneflower Kelseya,276,893,760.92
+17/03/2020,Verizon,1a098a46-4aef-4ceb-a1fb-857ba15edee5,"Tremblay, Jerde and Schmitt",TBBYSQ-276,Red Spiderling,43,198,219.62
+02/05/2020,Criteo,2dba7259-0f13-48f9-b1df-bfc2b0ff8cf4,"Hudson, Bernier and Gutkowski",PMDMVO-943,Parry Manzanita,714,279,430.78
+21/02/2020,Percycle,088b2c86-6667-4dd9-b132-3bb994ef42ad,Hagenes-Corkery,BIVHWX-715,Alderleaf Mountain Mahogany,598,712,124.45
+14/06/2020,Google,5a5726cb-5f79-42a9-b41a-8406370eb111,Leffler and Sons,JYQIVQ-849,La Panza Manzanita,64,95,692.92
+14/01/2020,Google,d2c7e753-2f83-47d6-9ae7-da3cbdbc6fc6,Thiel Group,MEXHCO-227,Blue Skullcap,432,555,695.94
+13/08/2020,Facebook,51620c4f-9b76-427d-b271-b2ca4efdd2c2,Kovacek-Hoeger,XMGVFH-140,Jointfir,612,626,708.57
+31/05/2020,Percycle,d90c945d-d332-4ff9-8e81-bf21db1c7f87,"Pagac, Morissette and Nikolaus",XPVEWN-920,Parrot Feather Watermilfoil,806,249,275.0
+16/06/2020,Verizon,1bd4e645-dea5-47a0-92e0-1b3ec33f1d07,Hand Inc,VTESIH-356,Ripgut Brome,719,493,258.69
+26/08/2020,Percycle,ae5f3787-e4f1-4893-a0d4-ccfef56b4104,"Nikolaus, Thiel and Nitzsche",UBNSCZ-775,Stiff Tickseed,269,59,768.05
+23/08/2020,Twitter,34486a3d-bcd8-4d96-b009-8689745e3bc5,Brekke LLC,RZGGKE-443,Protoparmelia Lichen,147,251,873.52
+15/08/2020,Google,daaf52a7-7e9f-4e97-a96f-664cb2ebadc5,"Windler, D'Amore and Zulauf",OTTOWM-767,Eucalyptus,992,764,253.99
+20/02/2020,Facebook,84cefed2-7b57-4f20-b196-fb6241b2e0fe,Bartoletti Inc,DUAFLF-072,Xanthoceras,524,629,184.58
+18/02/2020,Criteo,0c4b0db4-1bff-4734-8499-ddfd3a13861a,Lebsack-Mraz,ZODIJQ-285,Carolina Nutrush,789,660,931.04
+25/04/2020,Google,2c29c439-6096-494c-91ef-248caaa1ae63,"Huel, Steuber and Cremin",SPCGDB-187,Carlquist's Tarweed,108,220,18.11
+23/07/2020,Google,d043e6fd-5203-40fd-b106-fadf5caf4872,Robel Inc,UWHECW-468,English Holly,966,853,774.62
+09/05/2020,Twitter,02247a9e-f644-454c-942d-d74a52d9a9cc,Murray and Sons,HDEPTY-026,Muskflower,43,12,603.59
+06/04/2020,Criteo,70b691c5-4bb7-4934-a4c9-0f77f78e314d,Considine-Deckow,XRDNQC-380,Rhodobryum Moss,526,929,74.39
+23/06/2020,Facebook,9336da71-a421-486a-a7d3-b2974bb8c816,Lakin-McKenzie,WSTBJQ-930,Sky Mousetail,411,507,186.02
+23/07/2020,Twitter,f5bcb240-9ea7-4f5d-a004-25a5e3a20f33,"Lowe, Wunsch and Grant",FUBJMC-819,Wildrye,999,86,458.58
+10/06/2020,Verizon,95d6edbd-4595-4cb6-817b-581df651a196,"Heaney, Glover and Prohaska",MKYDNI-086,Spotted Mock Orange,275,433,321.87
+11/02/2020,Twitter,71933358-6fa8-44a4-8573-3de5b9cde2c0,Harvey Inc,PNMDQT-290,Arctic Catchfly,204,835,521.72
+18/03/2020,Verizon,d08af4e3-735c-4ad1-a85a-865225f0ba1a,O'Kon-Dickens,TLDHOS-615,Gum Copal Tree,626,554,240.81
+10/04/2020,Google,51c66dc8-7ea0-41ae-98e9-b05f7dcd7a55,"Renner, Parisian and Doyle",GNKQCH-025,Paradox Lupine,319,867,316.42
+30/05/2020,Verizon,75ab70ac-595b-4af4-b5b7-1798e75c657f,Daugherty LLC,QZKBZK-076,Miege Clover,915,675,812.98
+18/02/2020,Google,74a2c028-8b96-4c7f-8664-135767fbd1c2,Langworth LLC,NCZNYK-926,Showy Goldenrod,623,592,940.51
+03/02/2020,Facebook,aeb0a907-6e56-4de5-9925-5c86ffbafad8,Wehner LLC,AUENWL-633,Gypsum-lovingtownsend Daisy,994,815,361.1
+30/01/2020,Twitter,face5e67-5908-4725-940a-ee03a44597ce,"Altenwerth, Schumm and Boehm",SKOOVH-719,California Lacefern,858,526,302.55
+21/06/2020,Verizon,bda29731-4aa1-4e95-9243-4fe390a52f9c,Stark-Kerluke,TGYIWP-001,Wandflower,219,319,928.18
+19/01/2020,Facebook,544d8690-82d4-43fe-b8da-2358ba3a65a9,Pfeffer LLC,GBJOAL-345,Oreas Moss,387,274,792.88
+25/07/2020,Criteo,aa24ac51-8d11-407a-97a6-9069ff274f00,"Sauer, O'Reilly and Armstrong",TNCLRB-819,Neckeropsis Moss,700,179,468.35
+10/06/2020,Criteo,30e0209d-7657-43b8-ba1a-3f7e828d68cc,Brekke LLC,ZNJPDD-790,Walkingstick Cactus,100,753,143.38
+15/08/2020,Twitter,05d6be3f-2903-4e78-bb05-77006a51712d,Powlowski and Sons,WDZSZT-215,Cartilage Lichen,985,195,217.54
+09/04/2020,Verizon,70b509d0-65ce-41f3-86c6-4f5d3072c79a,Howe-Roberts,NSPOOA-377,Grimmia Dry Rock Moss,903,948,181.58
+22/08/2020,Google,1e96766f-6510-4d9c-83b5-7875e9ce89a4,Moen-Bernhard,RHZQSO-292,Wallaby Grass,862,123,366.77
+31/05/2020,Twitter,de036e8b-3377-45be-a391-5e00fb7320f3,Leffler-Kreiger,DQPHNW-263,Inchhigh Lupine,678,193,174.04
+20/04/2020,Verizon,fd1070b0-f3c7-4001-8752-7428d22e29e1,"Hoeger, Stroman and Orn",AWXQFB-943,Isopterygiopsis Moss,437,547,373.87
+08/04/2020,Criteo,07e54ed0-f707-4210-903a-cb8dc554dd77,Hudson-Littel,AQUFUZ-154,White Goldenrod,256,478,967.68
+19/05/2020,Facebook,7f058928-ce13-4c6e-8a5a-6da1f4db1f5b,Bernhard and Sons,TSOGUH-588,Showy Stonecrop,498,263,150.76
+28/04/2020,Criteo,bb069caf-4d54-4ceb-a68c-dc4865986c67,Cronin-Dooley,ZPMDOG-170,Filiform Rockjasmine,632,665,245.83
+10/02/2020,Criteo,836cf1eb-d609-4357-8f8a-334681890e63,"Runolfsson, Murphy and Hintz",LTHQPL-771,Remy's Sandmat,129,808,459.13
+19/01/2020,Verizon,e8d05152-9051-4659-8ec0-feba407ec2a0,"Bradtke, Goldner and Marks",LHAWMZ-150,Hedgerow Geranium,284,663,37.8
+21/08/2020,Verizon,d6157831-d6f7-4c2b-9b32-f3814e1e41fe,Lindgren-Pfeffer,ZIUOCJ-622,Retama Prieta,674,884,875.76
+15/06/2020,Facebook,34f05fad-6897-4cb0-a14a-821eea5d5d08,"DuBuque, Schneider and Swaniawski",SGWMGF-078,Sticky Brittlebush,531,467,711.85
+13/01/2020,Twitter,0a1739ed-5880-4621-bae2-81ee80ce48e6,O'Reilly-Emmerich,RFAAFN-945,Assai Palm,972,131,589.38
+07/02/2020,Verizon,e7f62ec2-d584-4b72-ac7c-721992c34ea3,Botsford-Abbott,ONXRTO-785,Higgins' Milkvetch,406,984,378.03
+06/03/2020,Percycle,b7663ac5-d275-42bf-bfc9-ffd381c02d3e,Morar Group,KIIIEB-762,Pacific Swampfire,395,858,250.89
+14/08/2020,Facebook,9a21f77d-032a-4a32-b8ec-f598a6b42a81,Wolff-Hand,KYKQOJ-788,Garden Lovage,959,684,378.09
+21/03/2020,Twitter,bdb6b18f-65ce-43b0-8ed3-0fc4ac502918,Thompson-Heidenreich,HBERFL-744,Nichol's Echinocactus,179,175,96.99
+11/03/2020,Criteo,b555bf1e-68ed-40ac-bc55-2c3b6da3195d,Stracke-Wuckert,IKBQWJ-646,Bedstraw,27,632,347.28
+18/05/2020,Criteo,3cf19782-ddae-4bad-bf1b-81767758d5cc,Rolfson Inc,RLQYWX-047,Origanum,203,969,792.33
+09/08/2020,Facebook,af334740-f16e-4f15-b06f-d558e8b231a0,"Williamson, Beier and Effertz",KIUWCB-112,Threeleaf Halberd Fern,260,995,675.69
+02/06/2020,Percycle,6e5301a1-3fd0-4db4-99bc-889f189a17d2,"Rempel, Schmidt and Klein",YMCTPM-593,Subalpine Fleabane,568,961,294.67
+27/03/2020,Twitter,a7aedef8-41b2-431d-8b9b-2f7fa90fbdc3,Abshire LLC,IJHXXN-604,Dot Lichen,344,271,724.57
+03/01/2020,Percycle,6c4f984e-2e8d-41f0-b02c-5ae74ddeb05c,Deckow-Yost,BHRHUL-976,Warnstorfia Moss,332,26,818.67
+10/07/2020,Verizon,63ccadc9-9794-4e31-98a7-934a29fde949,"Heaney, Wintheiser and Boyer",DKFBDD-472,Rimularia Lichen,642,177,650.53
+01/04/2020,Criteo,eaa8b915-27be-4d5d-b8b5-27c68c66e45b,"Cummings, Wuckert and Dickens",CSGFMY-082,Siskiyou Bedstraw,634,331,374.84
+22/02/2020,Twitter,799ed466-5cc8-4911-969e-a4e3bd9ee977,"Cormier, Leuschke and Rogahn",SYYVKF-983,Alefeld's Pea,666,975,76.62
+27/07/2020,Percycle,a1b98d19-a26b-4225-a641-e2a0b9d445a9,"Purdy, Kulas and Kovacek",NGVDUC-332,Hooker's Evening Primrose,767,24,722.37
+20/03/2020,Percycle,8918163d-d508-43fb-9c1c-2170c7706b29,Nitzsche and Sons,VUUANB-088,Cholla,36,532,780.7
+30/04/2020,Google,7b2c113e-d19f-44e5-a3f7-40f1d264254a,Hammes-Carter,HQVNUF-620,Guard Withe,639,421,253.28
+29/03/2020,Twitter,93637b90-6ea3-4b58-a218-6d8e0d6b1148,O'Keefe-Kihn,STXWBP-944,Kanaloa,297,723,939.34
+09/02/2020,Verizon,9e2e9b77-03ac-4e1e-bbe3-877c52eed90d,"Koepp, Schuster and Kulas",IDXDUN-799,Ramshaw Meadows Sand Verbena,206,83,636.35
+15/01/2020,Percycle,9b58bc8e-b562-4397-af18-ee75192de58c,Prohaska-Barton,AZXHOR-381,Bean,502,181,74.14
+22/01/2020,Percycle,06e440ee-fccf-4b4b-bd9c-e5bba339b6b7,Weber Group,AZUBWO-475,Silktree,478,345,652.82
+17/06/2020,Verizon,472df1c1-a57a-4469-a1a6-32c13887b426,Von-Boyle,UUWAIA-683,Merismatium Lichen,47,332,328.04
+06/02/2020,Facebook,4534f1e9-4990-4d40-83e6-5458f92fb75b,Terry-Funk,TMNTCB-093,Climbing Fern,365,387,963.08
+21/06/2020,Facebook,831d3acc-acca-43ed-be1f-5a4ed10d0cf8,"Willms, Herman and Armstrong",EITDPQ-737,Crested Saltbush,502,472,235.66
+17/06/2020,Google,14da8bfd-b9e8-4b9a-9cb1-0433bc7edaf4,Kris-Schoen,UCCURG-897,Johansen's Didymodon Moss,603,900,609.68
+04/01/2020,Verizon,c78e5ef7-dfe8-49a3-875c-61fe4b6fa0b6,"Morissette, Swift and Gerlach",QTWQAW-124,Springparsley,218,611,507.74
+12/06/2020,Facebook,3d963732-ffee-4e81-b398-a577077d6f54,Oberbrunner Group,NDRUET-569,Hayden's Indian Paintbrush,563,135,300.92
+21/01/2020,Google,43affc28-1b6a-459f-a514-dfb09fd97be9,Goldner Group,MVESHI-115,Aguinaldo Blanco,316,848,212.91
+02/05/2020,Google,74a1461d-09d2-4f17-b212-54ad4b82c841,Kris-Beatty,FSXPYO-859,Western White Pine,513,700,851.12
+06/06/2020,Google,63719b50-9b52-408c-8626-bbb4f6e694d4,"Kuhn, Blick and Lockman",NTHXNG-762,Fragrant Wandflower,634,973,775.37
+26/04/2020,Verizon,75ee63f8-68e7-4171-a4c5-0ea3cf187f08,"Cruickshank, Stoltenberg and Metz",FUPNHI-663,Yukon Stitchwort,969,707,785.24
+18/07/2020,Facebook,19c31b29-7617-4bec-845f-8f78023ba815,"Thompson, Flatley and Buckridge",IAYDRO-912,Poorjoe,783,132,69.04
+04/06/2020,Criteo,3ebe6d16-d586-4967-a354-29e824f39800,Ritchie Group,CWOXEY-011,Soldierwood,523,453,965.52
+01/04/2020,Twitter,f68edfd6-61dd-42ea-8d38-a785cfd33798,Kreiger-Luettgen,SLEFSZ-891,Theobroma,382,70,287.36
+13/07/2020,Verizon,c3375c58-8d0d-407e-8e78-722e0a57a2c5,Gibson-Conroy,TIGJSX-246,Kathul Mountain Draba,938,433,951.57
+15/07/2020,Percycle,f69dd334-3192-4892-8b6d-bbde24192297,Hoeger-Brown,ZLSVLE-813,Luquillo Mountain Guava,471,78,339.95
+13/01/2020,Criteo,e13a9868-c6f3-452c-8c30-9490e6ee3997,Collier and Sons,SHDRUE-356,Macoun's Meadowfoam,610,325,573.23
+18/07/2020,Google,0298d381-5eb4-47d7-a2cc-e82bad2a8218,Kreiger-Sipes,YIWAQN-388,Rye,722,729,895.77
+02/03/2020,Google,23ed62fe-e706-4e00-a188-a7e9660585a6,"Strosin, Cremin and Pollich",ZDIBXR-684,Fernleaf Yarrow,547,388,769.01
+11/02/2020,Google,2f7c82a5-452a-4441-a720-bad91f0d917e,Mayert Inc,ELZZSA-844,Honolulu Melicope,890,167,633.52
+09/07/2020,Criteo,d5ac6bde-0cd3-460f-ae20-0ef8922d618c,Bruen-Nitzsche,UJBXLT-804,Largeleaf Geigertree,55,563,743.05
+22/04/2020,Verizon,a971cdce-aa28-48fe-b2d0-7f3b6ff6643d,Dickens and Sons,RYPXCC-984,Datura,887,376,636.84
+17/07/2020,Percycle,68ec5668-68f8-4b31-be04-f350a3f53599,"Hermiston, Cassin and Grant",HDLGOT-495,Laramie Columbine,159,233,105.91
+15/03/2020,Twitter,6f6daf6f-8e66-4f00-8538-876ef0daa58b,"Waelchi, Adams and Weber",WDBSMW-370,Small Limestone Moss,662,120,217.16
+12/08/2020,Percycle,bcd5db15-04b4-4784-ad52-f532bf80a9ec,Beahan-Herzog,BKEFBZ-184,Yavapai County Buckwheat,897,969,371.39
+15/01/2020,Google,fa8fedef-0b12-4e10-a986-7c97f3a2870f,"Ward, Wilkinson and Jacobi",ZVTHVY-930,Lecidea Lichen,586,997,784.1
+26/07/2020,Verizon,65a1a4e8-c26e-44e0-89b2-beef7f01d9a0,Bechtelar-Donnelly,KPIPET-745,Threadstem Pincushionplant,778,328,70.29
+22/07/2020,Facebook,a3e040ab-7498-4212-bd17-82c658e9b64e,Volkman-Kertzmann,CFSQWO-111,Howell's Bluegrass,972,360,610.14
+14/05/2020,Facebook,459a8d22-85b6-498c-8b7f-e58a0f71327b,Conn-Fay,KXJFDV-917,Sulphur-flower Buckwheat,396,838,600.37
+27/06/2020,Percycle,82efcfaf-7285-485a-9eb1-f9f1212abcc7,"Mohr, Runolfsson and Osinski",JZISQX-191,Ahtiana Lichen,239,359,274.92
+07/03/2020,Percycle,afcc89b6-8a30-4d36-b56b-d6de73b0f9de,O'Keefe LLC,YKGAPZ-153,Bushy Knotweed,585,346,469.51
+12/05/2020,Google,b9aba136-23d7-4805-93db-8dfeaea792ff,Bartell-Cartwright,TMIAYF-527,Autumn Zephyrlily,748,891,184.15
+07/06/2020,Google,febeb908-54c2-4a4a-a151-a45ad99f87b9,"Schoen, Cremin and Beier",GQAEVK-342,Bog Birch,739,355,393.33
+22/02/2020,Criteo,02495739-e0da-4c4b-9eeb-0cc89ac05936,Emard-Mante,ADSJVB-847,Taos Penstemon,419,890,641.79
+25/06/2020,Percycle,401e24b6-e65a-4334-98e4-88a244085623,Torphy Group,HYNLIH-909,Black Cutch,155,733,610.0
+11/01/2020,Verizon,5a3abc42-cb9e-4838-9e02-82ff03fdc030,Sawayn Inc,VNYCFS-960,Ottoschulzia,446,390,420.81
+12/01/2020,Google,9b6b4874-7b80-4dc2-b87f-02ab01e01f8c,Cummings LLC,LZNVBU-989,Candelina Lichen,945,792,359.87
+10/06/2020,Facebook,3cc68782-b4d9-4c62-87a4-b961bb352301,Barton-Ritchie,UCTRUY-196,Smooth Penstemon,200,69,909.19
+06/08/2020,Criteo,d13e8dfa-9dac-4526-ac64-a4c78503313e,Zulauf-Zemlak,DRRPGM-465,Timmiella Moss,598,215,205.75
+25/07/2020,Facebook,d485c1a0-60e9-4740-9d3a-096627c1fe25,Ritchie-Shanahan,VNAUKF-265,Alpine Springbeauty,454,573,996.48
+08/07/2020,Facebook,2ca387d2-e029-4670-b2d9-be4077ee6fe2,Kovacek LLC,FFAGIP-540,Montana Locoweed,621,739,850.29
+29/01/2020,Google,f80e8e5a-c569-4d88-984e-e286b86477b6,Morissette-Lehner,DMQYOJ-994,White Upright Mignonette,887,710,807.52
+28/01/2020,Verizon,596d37f5-1fb6-4926-8f81-ac692433653e,Bradtke Inc,JXLVVA-578,Aulacomnium Moss,445,897,746.92
+09/03/2020,Verizon,bc86743d-554f-46de-9323-9cebaa9decf0,"Wiza, Gulgowski and Bogisich",ZWSXHR-792,Bahama Baybean,751,787,464.52
+23/05/2020,Verizon,882099c8-93c0-453c-8211-61bb80a8b41c,Feest-Senger,WZQMMV-173,Menzies' Burnet,649,30,129.11
+24/05/2020,Verizon,3b9a9361-1543-4210-bebe-ea45f9dc57bd,Herman-Dach,QNYXAH-947,Slender Hairgrass,374,261,863.1
+27/02/2020,Facebook,0b2b4b2a-93da-43d6-8bf1-b01e41ff568e,VonRueden-West,YFZSRP-601,Giant Woollystar,915,817,542.16
+03/03/2020,Google,fc86e499-7250-4dff-8bfb-ddddf99635af,"Kling, Mayert and Cummerata",YBNXSG-418,Narrowleaf Goldshower,713,149,29.68
+03/03/2020,Criteo,d9253023-0a0a-4ed8-be2f-e71bbae1fba7,"Roberts, Friesen and Langosh",ZXBJDD-811,Calkins' Wart Lichen,887,104,542.52
+08/05/2020,Google,b9f56bd1-e5a9-4e3b-8531-aba71c938636,Bins-Friesen,NKHXRG-311,Orange Bush Monkeyflower,261,175,127.0
+26/04/2020,Google,9dfe7743-c002-44af-a08e-06d9cc2fa7a1,"Runolfsdottir, Labadie and Kuhlman",LPIPOB-338,Tall Blazing Star,291,753,139.04
+25/01/2020,Google,e064f274-c2d3-4634-8747-d0a6ea550027,"Deckow, King and Watsica",GSEGZC-558,Spiny Combretum,482,242,904.99
+02/08/2020,Criteo,1c27426d-a861-4fa1-b9fe-3cf16c934dce,Kunze-Hessel,VUCAYL-867,Black Mulberry,245,629,260.29
+30/05/2020,Percycle,535c416d-5a9a-406c-bfd7-a6867958f2da,Heller LLC,NGIXKO-994,Perforated Parmotrema Lichen,756,526,944.43
+08/05/2020,Criteo,cd0e0646-5f08-4b57-b641-1cdbbfac798b,Kerluke and Sons,RDYDWV-071,San Diego Bush Monkeyflower,610,904,306.28
+10/03/2020,Percycle,e8da64bc-ab52-4302-b376-a0203341f12f,Kilback Inc,PSOCOG-147,Sierra Tidytips,336,133,463.89
+03/01/2020,Percycle,65ac2d5d-c042-4088-9e1d-492e52acd1cf,Haag Inc,SLWHSG-156,Virginia Creeper,455,542,387.63
+28/07/2020,Google,1ddc8bc7-4edc-4a4c-97c2-9552166f4658,"Borer, Stanton and Leuschke",LNHUTC-794,Showy Goldenrod,234,913,867.67
+19/03/2020,Verizon,447cbfe2-7f6f-410e-8e57-50541f629d6e,"Gleichner, Herman and Langosh",LKPITG-249,Tidalmarsh Flatsedge,79,423,463.64
+21/05/2020,Percycle,3462bbfa-076f-4fdd-8242-9b7e06f8103a,Barton Group,UZJLQY-140,Glandular Nakedwood,312,551,789.92
+04/06/2020,Percycle,dcf8ce27-70da-4141-b2e9-a0ca78d459e2,"Cormier, Keeling and Will",ZZZOZO-613,Hispid Mock Vervain,868,896,764.11
+06/04/2020,Criteo,7c72ffbf-d098-44a1-9d41-af12527686f7,Von Inc,VTWXXQ-009,Thymeleaf Loosestrife,265,605,31.6
+01/06/2020,Twitter,66bdb593-1ce0-4861-ac85-0e9e00eac310,Hilpert and Sons,TBWATO-171,Shrubby Whitevein,18,348,866.37
+15/03/2020,Twitter,dbbf4f12-f26e-4a11-b097-b86a8e60121c,"Rice, Larkin and Bartoletti",JCMSFS-533,Dot Lichen,80,586,510.92
+18/03/2020,Percycle,ffda3400-8e48-458d-9a18-b3e717827709,Green-Zieme,LEYXUD-740,Dicranodontium Moss,673,551,992.64
+14/06/2020,Google,3e211bbe-436f-413b-8ea3-047c723fc1d5,"Yundt, Cummings and Kulas",MPHOLV-122,Forest Plume Fern,812,517,924.12
+27/07/2020,Google,50e710a2-cc4d-4c8e-b8dd-44dd353c82f8,"O'Connell, Okuneva and Schneider",DQQGKB-151,Largeleaf Maidenhair,964,758,824.27
+04/02/2020,Twitter,c7963b1e-2d13-49aa-b10f-5943c2b7b7d5,Gorczany-O'Kon,OFMYVK-399,Darkbrown Sedge,437,866,616.33
+25/02/2020,Facebook,90ff36fa-963c-41b5-9414-7098826260d4,"Sanford, Hagenes and Heathcote",IQEQXA-120,Awl-leaf Lilaea,688,635,171.27
+18/01/2020,Criteo,dd674f00-21ee-4f7b-87b3-2eddb46f7efb,"Pfeffer, Auer and Wintheiser",JKASSX-840,Fiddleleaf Hawksbeard,431,957,360.88
+17/07/2020,Twitter,6068d4d0-09cc-4eed-85ee-1aff10321105,Bernhard-Kuhn,UUKLHN-922,San Luis Obispo Serpentine Dudleya,54,559,606.05
+05/07/2020,Verizon,908803d4-c4be-4c53-8f94-c8f865e06c5f,Koch LLC,VAPNOP-644,Brazilian Red-cloak,676,508,425.93
+06/05/2020,Verizon,5f20ccaf-283a-4d21-8393-2f218bd8980e,"O'Conner, Borer and Senger",HWNNTS-405,Arctoparmelia Lichen,10,757,438.56
+16/07/2020,Facebook,84ffd35a-8102-4022-b998-79b3179fce7a,O'Connell and Sons,RWDRPL-280,Snub Pea,843,504,876.63
+16/01/2020,Criteo,3f1e9944-62d9-4a8d-8d87-f22c1a097f41,Deckow-Miller,NSQETZ-132,Drummond's Bruchia Moss,663,864,51.02
+19/06/2020,Criteo,dbc3c273-dbbc-48ca-87e5-b6971574a6eb,Stamm-Littel,CBOSWJ-889,Dwarf Mountain Lupine,238,205,998.04
+17/08/2020,Google,c56b7e36-5f47-4315-9c92-18e2120e34b1,Smitham-Abshire,FNLHGO-118,Oahu Schiedea,783,87,833.27
+14/08/2020,Percycle,a0803f2a-96f6-4608-9ca6-1622f42e203e,"Shields, Satterfield and Greenfelder",SVDMCH-958,Sticky Panicgrass,889,975,374.77
+08/08/2020,Google,4db2f6c7-2efa-4985-be8b-686d60daff48,Bartell Group,BEKALM-296,Howard's Alpine Forget-me-not,185,721,294.2
+18/05/2020,Criteo,aa0d5a1a-3b32-4bdb-895c-748539fb50c0,Rempel LLC,JLXPCT-530,Mountain St. Johnswort,91,920,837.28
+18/01/2020,Criteo,166735a3-0609-49dc-9041-4045b56bbebe,Collier LLC,PAALTX-553,Cartilage Lichen,388,766,248.49
+19/06/2020,Criteo,3a5ee01a-249f-4168-b98a-35ca1adb29d9,"Frami, Streich and Okuneva",OYWWYI-135,Hippo Grass,499,660,641.81
+08/06/2020,Google,04f749c9-d845-4ce4-9ece-1d91d3db1629,Kovacek Inc,NJHVTS-775,Candyroot,152,636,83.13
+30/07/2020,Percycle,5aac361b-cb67-40e5-8f6b-40b3d10b6892,Thiel LLC,QTHBZX-806,Rosy Palafox,145,803,716.69
+07/07/2020,Facebook,7a89de66-3433-4bc2-b5d8-da4913b46189,"Collier, McKenzie and Sanford",WVSBHE-541,Apteria,615,717,674.95
+13/03/2020,Percycle,1aa84fa2-38cd-4987-9319-8e192e17b9de,Moen-Volkman,POKSSW-781,Bladdermallow,390,284,81.15
+14/04/2020,Verizon,908aafe9-ee14-46fd-a80a-980fff3dbef1,Zemlak Group,QVJRLN-430,Canyon Live Oak,910,511,561.26
+29/07/2020,Verizon,226d97ba-fce2-43a5-986f-1034a7d4907f,Hyatt-Boyle,MDIXTE-524,Asian Ghostweed,326,245,437.67
+13/03/2020,Twitter,bffa46a8-df66-4f46-bee3-a616c882088c,Brown LLC,MXMTAU-266,Colorado Wildrye,212,335,569.95
+25/07/2020,Google,dd2d137f-894a-4cb0-8eae-25cb72f63310,"Rosenbaum, Nolan and Schmidt",KYBXAL-179,Lynn Haven Goldenaster,339,241,272.08
+26/08/2020,Facebook,dce4ff15-c258-4778-bb21-c1103fffa0ee,"Johnston, Sauer and Hirthe",VDNDHP-860,Gray Goldenrod,941,663,56.94
+10/01/2020,Twitter,b4f6e1c1-6ebd-48c3-a8a2-4e1344f4648d,Streich-Goyette,RFBJEA-941,Earth Lichen,666,201,353.78
+19/02/2020,Criteo,e557e1d6-8a1a-4fae-8b46-81e1053ee769,Morar and Sons,RMPBVP-115,Trypelthelium Lichen,27,372,593.11
+29/08/2020,Verizon,7223ac2a-10ef-4472-8b00-a4aa35345403,"Bayer, Sanford and Lynch",HJDWUV-054,Woolly Paperflower,140,542,297.59
+19/06/2020,Google,ba8114b6-6e3a-467e-b1d3-9e90b601cc43,"Wolff, Parisian and Davis",IDVJNS-496,Bulltongue Arrowhead,225,542,731.4
+19/03/2020,Verizon,9f8786a7-a5ff-40e4-b8a4-600dc9257f62,Volkman-Erdman,DNHUHX-774,Psophocarpus,604,562,397.95
+08/04/2020,Facebook,294f17f5-e676-4369-bdc4-1e1e8c76ee1e,Hegmann and Sons,KHVZIM-872,Cuero De Sapo,133,907,330.74
+16/01/2020,Verizon,66446116-0297-4cc0-bc9a-9e654cd3c579,Borer and Sons,TSQWDB-138,Swinscow's Parmelinopsis,485,205,438.2
+25/04/2020,Google,b1ae48d2-f6de-4b31-aefa-4eb9936b48e1,"Morar, Terry and Smith",QMXLAP-949,Tibetan Hazelnut,484,65,611.94
+27/08/2020,Criteo,5951eb44-640a-4fcb-b84e-6dae2d7269ff,"Crona, Carroll and Reilly",VVNIZC-507,Sarea Lichen,201,606,597.6
+05/06/2020,Google,bc37e07a-3e91-4297-9068-85c5de62ed5c,Stehr-Herzog,QKGICP-244,Ale,669,642,703.66
+24/02/2020,Percycle,ac557554-a434-4099-9438-5641f71bb20d,Zboncak Inc,PVSKNF-757,Whitethorn Ceanothus,966,993,360.06
+19/04/2020,Google,6d1bbe41-96b2-41f8-92e0-68fc8687a6bf,"Okuneva, Gleichner and Wilkinson",HZPMRJ-287,Lygeum,168,38,15.27
+24/04/2020,Facebook,c714055c-cd37-47a4-80d8-22ccf0b4a83a,Keeling-Kshlerin,EGQBNG-583,Black Peppermint,863,920,10.71
+01/08/2020,Criteo,daaf4dbd-20a8-4e96-a5cb-db2bb4f0ee1c,"Koepp, Hauck and Langworth",UFALQD-624,Pallid Hoptree,630,542,103.19
+12/03/2020,Twitter,79c72b3b-0ce2-4ae0-811b-116611055543,"Beier, Wuckert and Predovic",CYZGEX-538,Centipeda,387,853,523.31
+17/06/2020,Criteo,1d13e43d-4b19-472f-b1af-9032646af79f,"Kuhic, Leffler and Deckow",WUJYER-854,Toano Milkvetch,200,311,671.65
+16/07/2020,Google,66e3e1f3-e446-45e9-92ab-1b37df116717,Wisoky LLC,FBYFHT-242,Arawnig,507,412,162.0
+03/08/2020,Facebook,24a23dfa-25c3-42eb-9777-ae8078fc9220,Gusikowski Inc,KSAPPT-406,Boreal Fleabane,859,12,646.33
+16/05/2020,Percycle,37175a70-ab92-46a7-add2-c6023f01aefc,Mayert-Weimann,PWFMMG-135,Field Chickweed,157,463,230.01
+29/02/2020,Twitter,97450951-89e9-41c8-8ffd-282e0f8f2e75,Tremblay and Sons,LBSQGX-856,Vegas' Rinodina Lichen,499,523,695.49
+03/07/2020,Verizon,8b17b300-949b-490b-b0c0-6e7a1a550313,"O'Connell, Lindgren and Kihn",MJBUVL-235,Round Cardamom,74,932,202.89
+26/07/2020,Twitter,bd0fc87f-6878-4df3-9a0d-8639571d240e,Bayer Group,MRHRRU-530,Lucretia Dewberry,163,484,400.69
+07/03/2020,Verizon,3d1181d6-2d68-474a-9635-789bf1067a69,"Quigley, Batz and Schaden",BXKPTO-741,Brachythecium Moss,563,185,174.88
+10/04/2020,Criteo,105aa8bd-511e-4c96-9f94-0b2bd0af403b,Bode Inc,MSHUBG-111,Longleaf Phlox,556,567,483.16
+23/07/2020,Google,ef041767-bdc9-40ea-aa65-25981bd9496c,"Kerluke, Kautzer and Quigley",YIQQYY-439,Winged Pea,615,201,173.46
+29/07/2020,Criteo,e574afa0-d001-4477-a2b5-c7afcfc437ab,Ruecker and Sons,WCOSRN-965,Drug Fumitory,642,683,462.37
+28/07/2020,Google,a250f7f9-3c88-47aa-804a-3fb5d43b3b1a,Rice Inc,WZOWDX-485,Gentian,676,554,926.07
+17/01/2020,Criteo,8b4be4e1-391e-4cba-a864-0686d76c1426,Schmidt-Hammes,AXDCQK-632,Vangueria,489,418,802.4
+31/03/2020,Google,0f40edcf-8f70-4bbb-9bd2-888a2712c454,"Bauch, Greenholt and Conroy",AKMRSR-025,Manyflowered Navarretia,413,174,542.8
+31/01/2020,Criteo,d6ac292f-b7b6-453d-b984-73913f468597,Lueilwitz-Reilly,HFCULG-455,Texas Saxifrage,75,763,946.3
+19/08/2020,Verizon,1692f3fa-2cf2-40cb-9bb9-68348e1c1a89,"Klein, Jacobs and Brekke",FRVYGK-624,Necker's Thamnobryum Moss,549,782,659.67
+09/08/2020,Twitter,478bd8e3-0cfb-458f-8b42-a47c26df4390,Lind and Sons,HPLMPV-693,Netbush,821,195,576.16
+02/04/2020,Google,a8a284bc-89be-467d-9858-65c5844ec230,"Wiegand, Batz and Upton",BTFMHT-794,Waxyleaf Privet,234,658,136.31
+08/06/2020,Percycle,6d05320b-4085-461b-a228-104997955677,Pollich-MacGyver,LBCFMB-787,Fragile Maidenhair,853,891,204.95
+30/07/2020,Verizon,56e94f04-6eab-47d5-b06e-042d79a9cb2c,Lueilwitz Inc,JLDTDB-035,Grand Merisier,331,555,419.83
+25/01/2020,Facebook,0f88546c-7b9b-46d2-b986-d06eddf9fcc4,"O'Conner, Haley and Bauch",HBIEFS-515,Daphnopsis,591,228,350.62
+21/04/2020,Criteo,1645b4cc-486d-4736-aa4b-1aebb565bf61,Erdman-Quigley,QUSJUE-406,Small Evening Primrose,399,292,870.17
+26/02/2020,Twitter,33a8bbf4-ba23-499d-b2a4-a06c670373df,"Nienow, Smith and Dooley",PDOMQI-117,James' Buckwheat,679,120,893.24
+31/01/2020,Facebook,a9c1d007-782d-4513-90bf-b18733f09d74,King-Welch,MZHECL-015,Ovateleaf Cliffbrake,393,528,802.54
+25/03/2020,Percycle,6848bd4b-356f-4d55-b12f-7fece3468020,"Moore, Okuneva and Toy",UQKVMX-686,Fimbry,838,805,864.95
+17/02/2020,Twitter,d9bb33fd-e3ab-46a5-9a21-513cf34d74d9,"Konopelski, Greenholt and Willms",IMOUHP-605,Fowl Bluegrass,630,617,698.41
+16/02/2020,Criteo,c87614d6-138d-4253-a4b3-57042b7e9427,Willms-Halvorson,CRHOGG-469,Auwahi Schiedea,965,294,77.05
+18/07/2020,Twitter,ed58f158-9733-46ca-b0c9-f703db0c6b01,Schiller-Denesik,FQAKXP-677,Hybrid Violet,775,199,965.78
+16/08/2020,Verizon,a2622120-08b4-4a88-a166-ecb99bf11b6e,Gulgowski-Williamson,ICBMGG-947,Bristly Flatsedge,641,246,71.72
+22/08/2020,Percycle,67ebc8d8-ae36-43db-95fe-9854d6425e91,Tremblay-Bernhard,BHWWUI-457,Dwarf Goldenstar,303,292,805.23
+11/08/2020,Facebook,6b5bf2ea-0e3f-47f1-a67e-f69303602ccf,"Kreiger, Koss and D'Amore",CFEHPV-840,Earleaf Brickellbush,493,646,13.87
+16/02/2020,Criteo,c24d6d7e-7abd-4999-920a-8c0be0d667db,Larkin Group,HMTVTZ-315,Pensacola Marsh Elder,962,371,872.56
+11/04/2020,Criteo,c86bbb47-15be-4aba-9e5a-c5dd273edeeb,Schoen Inc,ZQWULZ-585,Pokeweed,55,190,528.75
+04/02/2020,Percycle,2d623741-bff6-4bb5-9c9a-969831dec5c8,Klocko and Sons,JLQRKL-971,Orangefruit Horse-gentian,628,508,824.56
+23/05/2020,Twitter,2b2e66a7-8a2f-4d0c-b1e3-032c7716dc56,"Greenholt, Conn and Feeney",GRCGVR-492,Curlygrass Fern,21,813,959.34
+27/04/2020,Percycle,c436dec5-ec11-4429-99fb-1acc3205c133,Prosacco-Rempel,PEBNDN-703,Mojave Seablite,992,41,951.1
+05/05/2020,Google,286042ed-5544-408b-a240-64dbdd5aa5be,"Hermiston, Veum and Streich",EQGQBI-058,San Bernardino Mountains Indian Paintbrush,711,671,98.85
+10/06/2020,Criteo,f82187ce-5954-44a0-b17a-d14b6b8518d6,Sawayn and Sons,DZXNFD-054,San Francisco Lessingia,392,982,49.29
+22/04/2020,Criteo,8251f514-f3b5-4f04-9db4-8b035708fd55,Leuschke-Kovacek,WWTRGE-659,Cream Stonecrop,48,718,490.04
+01/03/2020,Twitter,a1908328-ac6f-47d9-8297-15e4f3eb6bea,"Trantow, Cronin and Cummerata",OECZVZ-198,Texas Milkvine,140,552,664.49
+03/01/2020,Twitter,a690bb26-ef92-4ddb-bd23-a45024d283b5,"Douglas, Graham and Smitham",IVEAWV-643,Sieber's Filmy Fern,970,829,573.13
+31/03/2020,Verizon,2fab6e20-a823-4ae9-938c-388a65996234,Zemlak LLC,PYTCTQ-688,Scorpidium Moss,522,193,637.75
+16/06/2020,Facebook,8fb83498-eaf2-488e-ad1c-329d97269bb3,Ernser-Mitchell,VVODWE-727,Bay Starvine,453,732,401.72
+30/05/2020,Percycle,3b59eb68-31cb-480b-9491-793065e7f3cd,Walsh-Bruen,EQQHYN-355,Hybrid Pine,488,301,953.69
+15/05/2020,Verizon,dcf0f96c-113b-4c1f-9e4a-155854d692f2,Gutkowski Group,XLPXPU-745,Croton,942,54,532.63
+23/01/2020,Criteo,31a71899-6881-4167-a39e-0d072920b448,"Reinger, Buckridge and Gibson",UDDXDC-332,Northern Green Orchid,203,187,538.95
+17/08/2020,Verizon,11ab9d9f-d095-40a7-92f8-98502856746d,Morissette-Becker,ZNREHI-925,Breynia,363,913,559.67
+14/07/2020,Twitter,fba18978-217e-43ba-ace5-b8319b2ce07f,Hessel LLC,VVDZPM-211,Rigid Didymodon Moss,140,950,262.72
+29/07/2020,Percycle,a09f3e85-9578-4468-bff6-95897b839dbd,Powlowski Group,GPSUAD-921,White Beaksedge,946,521,314.76
+30/05/2020,Twitter,6f0f6330-c504-4193-8e33-5d8221cdf395,"Emard, Stracke and Kuvalis",UEEJMY-416,Weak-leaf Yucca,207,776,497.99
+25/04/2020,Percycle,e7a4e57f-1020-4d6e-a1d2-e5fa5c7b0bf5,Berge Group,UPYVXC-912,Eastwood's Podistera,628,106,424.2
+04/02/2020,Facebook,9decd9f9-509e-47c0-8e08-289ea4a4d79f,Welch Group,REEIOE-792,Gray Bottlebrush,158,643,245.75
+18/01/2020,Verizon,ae06cbd7-7bff-4ff1-bb11-800755588149,Parker-Johnson,CLZJDE-996,Wight's Myriotrema Lichen,186,923,920.79
+21/01/2020,Percycle,387d5bd8-63f2-4904-8163-6458c111c8f2,"Kub, Conn and Baumbach",ZXEYPK-045,Downy Yellow Violet,525,168,643.49
+11/01/2020,Facebook,790627c3-f782-44a0-85c7-af9ae5eac7f9,Lynch-Daugherty,EGCEUL-809,Tuckermannopsis Lichen,725,427,38.06
+25/08/2020,Google,c57f5053-ed94-4619-baa3-8123ed2a8b84,"Will, Hermann and Veum",ATCQSD-954,Earle's Buttercup,851,839,850.21
+20/06/2020,Criteo,f166e974-0c14-45fb-9698-d21e083cb719,McDermott-Oberbrunner,TABJLB-791,Narrowfruit Braya,20,431,757.28
+15/08/2020,Facebook,0d627f65-9d34-407a-9de5-b5a316ef66ad,Hagenes Inc,KHECZI-167,Rio Grande Vervain,479,287,628.65
+08/05/2020,Percycle,02bb5426-b652-40a8-8169-2f6b682cbd42,"Windler, Murray and Johnson",HAUYWS-757,Cronquist's Milkvetch,620,889,316.56
+27/04/2020,Facebook,33038921-3fb5-4fac-bc72-f1f50b2cf584,Torphy LLC,BNABCG-387,Panamint Buckwheat,783,716,67.3
+07/03/2020,Facebook,fd09b539-1b14-4a63-a651-cd04f1c06088,Mayer-Goldner,SUGYVY-470,Velvetleaf,434,801,592.03
+29/06/2020,Google,9725968a-7fca-4992-8e43-abe4cca9b7a8,"MacGyver, Predovic and Aufderhar",PJWGZQ-467,Crandall's Rockcress,752,319,124.59
+07/03/2020,Facebook,bb511c18-e1ca-4f9e-83ab-8787a55b3c3d,"Farrell, Schmeler and Hoeger",FFGYHD-988,Smallflower Phacelia,324,849,416.47
+03/05/2020,Twitter,d4cd380c-eb21-46a0-a003-dab74a1bae74,"O'Hara, King and Rodriguez",UQXEUL-938,Spreading False Pimpernel,482,476,471.9
+20/03/2020,Percycle,366f15ab-5dc5-459f-87f8-bdd68f1ea58d,Gislason LLC,VGQTLX-284,Suriana,951,991,490.64
+05/06/2020,Twitter,d3cdfc7d-ed04-4b94-8495-819b384ad70d,Welch Inc,QYWOKJ-672,Wedgescale,44,835,200.13
+08/02/2020,Verizon,12c13095-4b11-4f88-bd63-d165f4869ee6,"Feeney, Goodwin and Herzog",NPBZTF-883,Mt. Graham Spurred-gentian,963,702,548.28
+22/08/2020,Twitter,62f25a8c-fdae-4e12-bdac-8be9d1c68711,Rath-Abbott,TUTYRK-142,Beargrass,76,23,751.42
+05/03/2020,Criteo,0ea439f4-999d-4e83-b30e-47677e71f730,Conn-Turner,FZTXKQ-473,Undulate Speedwell,270,517,778.13
+04/02/2020,Facebook,8bbac72b-204c-47ba-8552-4ea5feca1e87,Zboncak and Sons,WAQAUX-094,Torrey's Bulrush,951,418,207.17
+01/07/2020,Verizon,8050580e-b219-4e24-bb71-70e4b4bc55ab,Gutmann-Macejkovic,EPZXWA-530,Polyblastia Lichen,151,232,264.96
+22/06/2020,Facebook,189abaa0-eeb6-4aba-9acf-226ca7fcbfd5,Cummerata-Buckridge,LYAFZD-912,Mammoth Wildrye,272,99,350.62
+23/07/2020,Criteo,499fc6b6-3521-4028-9008-69a2f9023d77,Block-Satterfield,SZVXOQ-857,Chinese Hollygrape,431,772,432.0
+27/01/2020,Google,d2381ecb-6044-4197-b3fe-33720e3503b3,"Rodriguez, Christiansen and Walter",ALXHJA-868,Thinpetal Larkspur,907,527,632.97
+14/02/2020,Facebook,d546ee94-64fc-4b38-a879-ca6a94d0601e,"Jakubowski, Thompson and Weissnat",VMHPOF-780,Ribbonleaf Pondweed,440,79,141.94
+19/02/2020,Twitter,c7734df8-20f0-41db-818f-a2f16f6942e5,Bergstrom Group,SDSWTU-050,Saw Phacelia,461,389,258.59
+12/07/2020,Facebook,94ddb918-7cd5-4aab-9617-b64b75c43605,Connelly Inc,JDMFLF-750,Thompson's Buckwheat,819,874,566.61
+21/08/2020,Criteo,c487558a-fa2f-4ab0-8c83-949006117465,"Schmitt, Deckow and Heaney",BVEOYT-860,Woollyleaf Manzanita,123,734,278.17
+21/04/2020,Verizon,ee679c0f-f83b-4b06-86bf-a3c24834fa56,Lakin-Marks,INYZLN-254,Vasey's Thistle,655,830,238.53
+21/04/2020,Twitter,4dbd8073-444b-40c5-8a71-4481627a31e4,Green Inc,EPIBPF-176,Slender Goldenbanner,464,513,308.16
+01/08/2020,Google,33427b72-1ff4-4dd0-a04b-7106d5ad8f28,Parisian Group,QVLYXK-490,Pacific Woodrush,910,91,190.62
+27/06/2020,Percycle,9524dbb8-620e-4f83-b392-e15759f57d31,"Champlin, Lueilwitz and Johnson",UYBYIW-502,California Hazelnut,528,826,638.37
+22/08/2020,Twitter,0a788ca0-fc1e-4b5b-9919-78c42c24569f,"Wiza, Konopelski and Bartoletti",RFOYDH-590,Dot Lichen,234,200,648.66
+25/04/2020,Google,bc8b70d0-b446-4647-98ef-9d84764ec4f3,Gottlieb Inc,TVOFJT-342,Manena,836,152,834.88
+07/03/2020,Twitter,f511ead0-c603-4ed9-bad8-3f3310bf2bd6,Erdman-Torp,MCZSJU-103,Wormseed,700,24,734.68
+17/06/2020,Percycle,c3332613-1885-459d-925a-3f01ea411edf,"Marks, Cassin and Langworth",JFSQNA-402,Woodland Wild Coffee,374,669,64.59
+20/03/2020,Google,e60b59ae-b936-44d2-b342-c6441111e26c,"Witting, Hammes and Hoppe",GGJIEJ-352,Giant Red Indian Paintbrush,240,690,445.29
+11/08/2020,Percycle,f1a2c196-5fc6-4f2b-8392-ccb652c428f7,"Padberg, Schaden and Balistreri",NKJVWW-443,Varigated Chastetree,913,835,71.06
+31/05/2020,Facebook,7c54c7d8-6a2b-4a82-ad27-24919bb2b1e1,"Gulgowski, Rosenbaum and Spinka",XOSNTM-756,Slender Looseflower Sedge,718,620,611.24
+13/06/2020,Facebook,4d640a84-2c99-42db-8877-0a1bc27f33a3,"Zemlak, Abshire and Reichert",BCUTVY-261,Florida Tasselflower,738,337,953.85
+10/04/2020,Verizon,a7eec4f7-685c-4b48-93e8-cd6259b55dbc,Marks-Considine,OJTREK-117,Mt. Waialeale 'ohe,52,786,429.4
+04/05/2020,Percycle,a848e021-ee5d-4a21-b788-2298d561a61d,"Rutherford, Block and Fadel",NGVYYP-690,Alectra,748,308,127.08
+27/07/2020,Criteo,1af68ed5-bead-4b31-b4f6-57874c4e3ac3,Kohler LLC,YXNMCE-571,Tropical Almond,30,475,41.18
+11/05/2020,Percycle,5acd4273-3b02-4f31-b307-0669757dc7d6,Hauck-Gulgowski,PYVZNU-106,Coulter's Wrinklefruit,249,990,906.26
+19/05/2020,Twitter,f9c93dff-9417-44d7-b55e-8bcaddd6b01c,Skiles-Stiedemann,QSLXXV-631,Fringed Spiderflower,621,411,444.15
+20/03/2020,Percycle,0ccd7284-6c16-4d7b-ac1a-e3318fe444a8,"Schaefer, Fahey and Schowalter",CLGEIB-085,Wild Indigo,963,22,596.49
+04/03/2020,Google,d8a7b0e9-ef9c-46f8-b1f5-41ede57276d5,Dooley-Stoltenberg,UKHDPS-181,Diverse Porpidia Lichen,528,11,531.35
+03/04/2020,Verizon,939dcf2d-6eec-44f9-86cf-f5252d9c8b92,Sauer-Mills,BVZOJV-144,White Meadowfoam,242,622,138.75
+29/05/2020,Percycle,ce150b98-a649-4391-8b4f-bcc53a72c67b,Kerluke-Ruecker,JSBJWN-533,Rimmed Lichen,729,301,111.04
+14/01/2020,Percycle,0a9efd2b-e1e5-4a83-a3db-7b09a845c6fe,Gleichner-Romaguera,IYJXMG-169,Bryum Moss,613,590,325.26
+29/06/2020,Facebook,282bd476-f422-4eed-baf0-1836a7aa54d6,Hoeger Group,QHCNJL-120,Alpine Feverfew,595,421,860.3
+26/07/2020,Twitter,db99c3ca-c160-44f0-8c62-3e62a8aa1088,"Eichmann, Hayes and Wiza",KIFUDY-360,Whitebristle Cottongrass,607,374,949.33
+11/04/2020,Twitter,21c30982-b843-4e27-a9ec-610c84d483a7,Murphy-Dickens,EGEBXH-423,Wart Lichen,476,879,420.64
+23/08/2020,Percycle,0e51e048-d037-49ac-92ab-c71feff3b718,"Gusikowski, Breitenberg and Abshire",YFZNJU-913,Common Woolly Sunflower,883,650,822.66
+03/06/2020,Criteo,c83aa7d2-c29f-4849-ba6a-ee1b66e1096c,Cremin-Walter,POOHST-596,Trichoramalina Lichen,279,200,917.82
+28/02/2020,Percycle,3382faa9-df94-4d71-a445-a1a98f8dc15a,"King, Toy and Mayer",ICYPUF-784,Coral Gum,703,938,155.76
+09/02/2020,Twitter,225bd536-26ed-4e51-9ed4-b90f607a79d2,"Corwin, Crooks and Spencer",TEBMAG-536,Japanese Chaff Flower,252,327,476.73
+10/07/2020,Twitter,fc22bfce-a00e-4179-9035-7712c2d99b5c,King-O'Reilly,OPSARN-695,Dot Lichen,943,902,959.36
+06/03/2020,Google,79ac7a61-6079-43a9-abc7-ea7531346632,Torphy-Abbott,NHCJET-809,Parry's Clover,603,480,932.21
+17/08/2020,Percycle,95377198-8edb-4d2f-b766-330769b5f2ce,Altenwerth LLC,FELCJB-372,Drops-of-gold,540,207,481.36
+08/03/2020,Google,ddd70a9e-9561-4843-bb91-d96dc5319402,Dickinson-Hyatt,BAMHCB-725,Fuzzyleaf Clover,464,855,293.32
+21/06/2020,Verizon,98ca7c69-d6ef-4c1e-9698-17b6a39fcee5,Bartell and Sons,DBEIBW-287,Golden Currant,397,498,835.01
+24/06/2020,Criteo,b47dc46c-7b52-4898-8985-b6b4e01e03f7,"Kshlerin, Hand and Zboncak",OAUQXS-063,Suksdorf's Monkeyflower,547,943,560.51
+19/03/2020,Facebook,d79efb55-2c47-47f0-b04f-d8e9b03002d4,"Kerluke, Connelly and Hodkiewicz",DJQDDH-701,Marsdenia,373,29,645.39
+05/07/2020,Criteo,223c6c4b-c98d-44f0-8424-e41b8c3eea90,Parker-Kling,ARBERQ-985,Panaluu Mountain Rollandia,743,666,388.26
+16/07/2020,Percycle,f49e8f9b-f061-4937-968d-f650e4321f61,"Langosh, Dach and Crist",CZXYGS-660,Lathberry,105,902,579.58
+17/03/2020,Criteo,c856600b-8a01-4d79-b4d7-7a1c6d9f6250,Prohaska LLC,QOEFNW-331,Fourpetal Pussypaws,378,899,846.2
+03/08/2020,Verizon,abf0f79b-aedf-4358-9190-5367c5d07b00,"Kreiger, Little and Stamm",SWWGBQ-376,Modoc Muhly,942,462,67.91
+10/07/2020,Facebook,5c109227-1c29-42e6-bc6b-acbe1342f058,"McCullough, Will and Smith",QHPEJN-420,Serrate Ptychomitrium Moss,776,344,673.76
+31/07/2020,Percycle,4fe0cf11-51f6-47dd-8619-8c05259d4abf,Oberbrunner Inc,ERRSSB-913,Caracol Illo,151,839,879.56
+29/05/2020,Google,31ccd0d3-1be7-433b-8150-46d1761a58f1,Blanda-Ullrich,IAJRLK-135,Kaibab Suncup,218,522,547.65
+18/06/2020,Twitter,bd520c8b-fcc6-4130-b078-0cf93008c7b0,Walter-Frami,CRHKKK-678,Shaggy Lupine,436,832,473.63
+05/04/2020,Twitter,8c35f920-83b7-40a4-b239-82851f617d69,Kessler-Kohler,PIQHXP-621,Skin Lichen,671,981,496.66
+22/02/2020,Percycle,c148df02-600d-4db6-8cbf-90a96282d667,Gibson LLC,QTHWSQ-483,Blackbrush Wattle,477,467,482.43
+05/06/2020,Google,de6b8128-d1d5-43e0-8643-12856075a6aa,Lockman-Bosco,TNFGHI-490,Scarletbush,679,729,241.06
+14/05/2020,Verizon,c55d63f3-1180-40e2-8a6d-6146cc13f4fa,Littel-Medhurst,ORCETZ-626,Manybristle Chinchweed,634,244,314.8
+25/01/2020,Verizon,1913dbb5-d0b8-4e5d-bc7f-312b0b2f8e78,Green-Barton,FQMRXE-820,Beard Lichen,601,880,343.69
+13/08/2020,Percycle,6edd7138-5420-40f7-9770-67ef343fce26,Hills-Kessler,HIVNRC-223,California Buckthorn,527,807,985.94
+28/04/2020,Twitter,ed22a349-480d-423e-8617-5f443bd675ee,Beahan and Sons,ANBYBY-889,Sweetwood,932,610,407.52
+09/08/2020,Google,e80efa73-fa60-4f7b-9d41-5f93161c9edf,Fisher Group,GGUGPX-120,Labrador Buttercup,981,860,441.9
+03/08/2020,Twitter,42ee14c8-a1c2-4fca-968a-9c55a93fe2e7,Hane-Mayert,AYDDAH-194,Mallotus,354,223,635.19
+27/06/2020,Google,df13c116-58e2-4dc3-b778-11de3830e796,Luettgen LLC,ZSXERT-646,San Benito Thorn-mint,234,289,117.29
+16/07/2020,Percycle,297cf6c1-b555-4283-b7dd-b9b726245599,Koepp and Sons,GKETQJ-423,Spring Lady's Tresses,494,22,532.06
+29/06/2020,Percycle,7a339fab-3a58-4968-a42f-63e3eb571ddf,Hackett Group,CBEEOW-226,Sedge,405,499,400.03
+24/05/2020,Facebook,aa4b14b6-746c-4756-8a0f-119e318b8509,Willms-Welch,RJUYTE-672,Daltonia Moss,611,247,623.16
+28/01/2020,Verizon,219b9f24-fdcc-4305-81ac-2d9ea405f496,Wilkinson-Fay,IJJSSA-222,Dogbane,359,30,813.31
+10/01/2020,Google,4479f317-fe2d-4745-9744-1454d888e235,Davis Inc,UUUHHW-372,Southern Honeysuckle,559,351,735.06
+16/07/2020,Percycle,8653cbd6-834c-4ae4-8b54-40c901b54558,Gusikowski LLC,HXAUUA-420,Crimsoneyed Rosemallow,260,674,133.05
+29/07/2020,Verizon,3176ad8b-01ed-4f52-93af-c8c05724f85d,Moore and Sons,KPTRPM-840,Brazilian Red-cloak,110,334,934.91
+11/05/2020,Criteo,49cedc7e-5890-4eb2-9b6e-61dce026b4b1,Wiza-Vandervort,BYVUXX-904,Pacific Silver Fir,473,591,388.91
+"data","fields","header"
+"[{""date"":""29/08/2020"",""media"":""Verizon"",""client_id"":""9a47871a-c36d-4949-8a65-4d4f2b3801d9"",""client_name"":""Turcotte-McCullough"",""campaign_id"":""SWZERB-901"",""campaign_name"":""Angelica"",""clicks"":""270"",""impressions"":""843"",""investment"":""536.37""},{""date"":""29/08/2020"",""media"":""Verizon"",""client_id"":""9a47871a-c36d-4949-8a65-4d4f2b3801d9"",""client_name"":""Turcotte-McCullough"",""campaign_id"":""SWZERB-901"",""campaign_name"":""Matheus Ligieri"",""clicks"":""270"",""impressions"":""843"",""investment"":""536.37""}]","[""date"",""media"",""client_id"",""client_name"",""campaign_id"",""campaign_name"",""clicks"",""impressions"",""investment""]",false
+"date","media","client_id","client_name","campaign_id","campaign_name","clicks","impressions","investment"
+"29/08/2020","Verizon","9a47871a-c36d-4949-8a65-4d4f2b3801d9","Turcotte-McCullough","SWZERB-901","Angelica","270","843","536.37"
+"29/08/2020","Verizon","9a47871a-c36d-4949-8a65-4d4f2b3801d9","Turcotte-McCullough","SWZERB-901","Matheus Ligieri","270","843","536.37"
+"date","media","client_id","client_name","campaign_id","campaign_name","clicks","impressions","investment"
+"29/08/2020","Verizon","9a47871a-c36d-4949-8a65-4d4f2b3801d9","Turcotte-McCullough","SWZERB-901","Angelica","270","843","536.37"
+"29/08/2020","Verizon","9a47871a-c36d-4949-8a65-4d4f2b3801d9","Turcotte-McCullough","SWZERB-901","Matheus Ligieri","270","843","536.37"
