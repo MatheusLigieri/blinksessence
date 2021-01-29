@@ -5,6 +5,6 @@ app.listen(port, () => {
   console.log(`Servidor rodando na porta ${port}`)
 });
 
-app.get('/lead', function (req, res) {
+app.get('/campanha', function (req, res) {
   res.render(__dirname + "/pages/campanha");
 });
