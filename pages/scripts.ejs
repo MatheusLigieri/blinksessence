@@ -1,0 +1,58 @@
+<script src="assets/vendor/jquery/dist/jquery.min.js"></script>
+<script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendor/js-cookie/js.cookie.js"></script>
+<script src="assets/vendor/jquery.scrollbar/jquery.scrollbar.min.js"></script>
+<script src="assets/vendor/jquery-scroll-lock/dist/jquery-scrollLock.min.js"></script>
+<!-- Optional JS -->
+<script src="assets/vendor/chart.js/dist/Chart.min.js"></script>
+<script src="assets/vendor/chart.js/dist/Chart.extension.js"></script>
+<!-- Argon JS -->
+<script src="assets/js/argon.js?v=1.2.0"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"
+    integrity="sha512-Meww2sXqNHxI1+5Dyh/9KAtvI9RZSA4c1K2k5iL02oiPO/RH3Q30L3M1albtqMg50u4gRTYdV4EXOQqXEI336A=="
+    crossorigin="anonymous"></script>
+<script src="assets/js/main.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"
+    integrity="sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ=="
+    crossorigin="anonymous"></script>
+<script>
+    function getData(max) {
+        var url = "";
+        var startDate = document.querySelector('#startDate').value;
+        var endDate = document.querySelector('#endDate').value;
+        if (startDate.length == 0 || endDate.length == 0) {
+            url = "http://localhost:8081/api/v1/data"
+        } else {
+            startDate = moment(startDate).format("DD-MM-YYYY");
+            endDate = moment(endDate).format("DD-MM-YYYY");
+            url = "http://localhost:8081/api/v1/data?startDate=" + startDate + "&endDate=" + endDate
+        }
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", url);
+        xhr.addEventListener("readystatechange", function () {
+            if (this.readyState === 4) {
+                if (this.status == 200) {
+                    JSONdata = JSON.parse(this.responseText);
+                    var tbody = document.querySelector('.lead-table tbody');
+                    var row = ''
+                    JSONdata.forEach((data, index, arr) => {
+                        if (index > max) {
+                            return
+                        } else if (index == max) {
+                            tbody.innerHTML = row + tbody.innerHTML
+                        } else {
+                            row = row + '<tr><th scope="row" style="width: 14%;">' + data.campaign_name + '</th><td style="width: 14%;">' + data.client_name + '</td><td style="width: 14%;">' + data.impressions + '</td><td style="width: 14%;">' + data.media + '</td><td style="width: 14%;">' + data.clicks + '</td><td style="width: 14%;">' + data.investment + '</td><td style="width: 14%;">' + data.date + '</td></tr>'
+                        }
+                    });
+                }
+            }
+        });
+        xhr.send();
+    }
+    var botao = document.querySelector('#search');
+    botao.addEventListener('click', () => {
+        var tbody = document.querySelector('.lead-table tbody');
+        tbody.innerHTML = ''
+        getData(50)
+    })
+</script>
