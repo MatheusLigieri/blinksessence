@@ -7,16 +7,17 @@ var newLine = '\r\n';
 
 const results = [];
 const filterResults = []
-let startDate, endDate;
+let startDate, endDate, stream;
 
 class Data {
     GET(req, res) {
-        fs.createReadStream('database.csv')
+        stream = fs.createReadStream('database.csv')
             .pipe(csv())
             .on('data', (data) => results.push(data))
-            .on('end', () => {
+            .on('close', () => {
                 if (req.query.startDate == undefined || req.query.endDate == undefined) {
                     res.status(200).json(results);
+                    stream.destroy();
                 } else {
                     startDate = req.query.startDate.split('-');
                     endDate = req.query.endDate;
@@ -32,12 +33,13 @@ class Data {
                             filterResults.push(result);
                         }
                         if (idx === results.length - 1) {
-                            console.log("Last callback call at index " + idx + " with value " + result);
                             res.status(200).json(filterResults)
+                            stream.destroy();
                         }
                     })
                 }
             });
+
 
     }
     POST(req, res) {
@@ -65,7 +67,6 @@ class Data {
             if (err == null) {
                 console.log('File exists');
 
-                //write the actual data and end with newline
                 var csv = json2csv.parse(data) + newLine;
 
                 fs.appendFile('database.csv', csv, function (err) {

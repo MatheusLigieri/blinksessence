@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <%- include('head'); %>
+</head>
+
+<body>
+    <%- include('nav-left'); %>
+        <div class="main-content" id="panel">
+            <div class="header bg-primary pb-6">
+                <div class="container-fluid">
+                    <div class="header-body">
+                        <div class="row align-items-center py-4">
+                            <div class="col-lg-6 col-7">
+                                <h6 class="h2 text-white d-inline-block mb-0">Campanhas</h6>
+                                <nav aria-label="breadcrumb" class="d-none d-md-inline-block ml-md-4">
+                                    <ol class="breadcrumb breadcrumb-links breadcrumb-dark">
+                                        <li class="breadcrumb-item"><a href="http://localhost:8081/admin"><i
+                                                    class="fas fa-home"></i></a></li>
+                                        <li class="breadcrumb-item"><a href="#">Campanhas</a></li>
+                                    </ol>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid mt--6">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="card">
+                            <div class="card-header border-0">
+                                <div class="row align-items-center">
+                                    <div class="col">
+                                        <label for="startDate">Start Date</label>
+                                        <input class="form-control" type="date" name="date" placeholder="dd/mm/yyyy"
+                                            id="startDate">
+                                    </div>
+                                    <div class="col">
+                                        <label for="endDate">End Date</label>
+                                        <input class="form-control" type="date" name="date" placeholder="dd/mm/yyyy"
+                                            id="endDate">
+                                    </div>
+                                    <div class="col">
+                                        <button class="btn btn-primary" id="search">Search</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="table-responsive">
+                                <table class="table align-items-center table-flush lead-table">
+                                    <thead class="thead-light">
+                                        <tr>
+                                            <th scope="col" style="width: 14%;">Nome da Campanha</th>
+                                            <th scope="col" style="width: 14%;">Nome do Cliente</th>
+                                            <th scope="col" style="width: 14%;">Impressões</th>
+                                            <th scope="col" style="width: 14%;">Media</th>
+                                            <th scope="col" style="width: 14%;">Clicks</th>
+                                            <th scope="col" style="width: 14%;">Investimento</th>
+                                            <th scope="col" style="width: 14%;">Data</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <%- include('footer'); %>
+            </div>
+        </div>
+        <%- include('scripts'); %>
+</body>
+
+</html>
