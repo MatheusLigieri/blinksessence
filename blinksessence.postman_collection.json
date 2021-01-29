@@ -1,0 +1,100 @@
+{
+	"info": {
+		"_postman_id": "53ecce1f-2ea8-42dc-ac67-0104d5a63110",
+		"name": "blinksessence",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET | Data with range",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {
+					"connection": true,
+					"accept-encoding": true,
+					"accept": true,
+					"user-agent": true,
+					"host": true
+				}
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8082/api/v1/data?startDate=01-01-2019&endDate=01-10-2030",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"api",
+						"v1",
+						"data"
+					],
+					"query": [
+						{
+							"key": "startDate",
+							"value": "01-01-2019"
+						},
+						{
+							"key": "endDate",
+							"value": "01-10-2030"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET | Data",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/api/v1/data",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"api",
+						"v1",
+						"data"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST | Data",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[\r\n     {\r\n        \"date\": \"29/08/2020\",\r\n        \"media\": \"Verizon\",\r\n        \"client_id\": \"9a47871a-c36d-4949-8a65-4d4f2b3801d9\",\r\n        \"client_name\": \"Turcotte-McCullough\",\r\n        \"campaign_id\": \"SWZERB-901\",\r\n        \"campaign_name\": \"Matheus Ligieri\",\r\n        \"clicks\": \"270\",\r\n        \"impressions\": \"843\",\r\n        \"investment\": \"536.37\"\r\n    }\r\n]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8081/api/v1/data",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"api",
+						"v1",
+						"data"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

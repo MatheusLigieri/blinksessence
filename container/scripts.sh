@@ -1,0 +1,1 @@
+cd .. && docker build -t matheus-blinks . && docker run --name teste-blinks -p 8081:8081 -d matheus-blinks
